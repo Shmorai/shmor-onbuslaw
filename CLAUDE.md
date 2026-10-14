@@ -11,8 +11,8 @@ A Shmor marketplace (shared rules in `../../CLAUDE.md`): its own brand, design a
 | Design: styles | `assets/site.css` (kit defaults at the top; **OnBusLaw theme** block at the bottom) |
 | Generated output (don't edit by hand) | `index.html`, `*/index.html`, `sitemap.xml`, `robots.txt`, `404.html`, `search/`, `search-index.json`, `blog/feed.xml` |
 
-## Pages (18)
-Home · consumer-rights · refunds-and-returns · chargebacks · online-scams · identity-theft · complaints · trademarks · copyright-and-takedowns · affiliate-disclosure-rules · online-business-legal-checklist · website-terms-and-privacy · selling-on-marketplaces · blog (+4 posts: EU withdrawal button, cancelling subscriptions, Action Fraud → Report Fraud, spotting fake online shops).
+## Pages (19)
+Home · editorial-standards (footer + byline link; not in menu) · consumer-rights · refunds-and-returns · chargebacks · online-scams · identity-theft · complaints · trademarks · copyright-and-takedowns · affiliate-disclosure-rules · online-business-legal-checklist · website-terms-and-privacy · selling-on-marketplaces · blog (+4 posts: EU withdrawal button, cancelling subscriptions, Action Fraud → Report Fraud, spotting fake online shops).
 Top menu = pages with `navOrder` (Your rights, Refunds, Scams, Trademarks, Affiliates, Business, Blog, Complaints [mobile/tablet only; desktop shows the navy "Resolve a dispute" header button instead]). The menu collapses to the hamburger below 1080px.
 **Home blocks:** trust strip → What do you need help with? (9 photo tiles) → Key rules at a glance (8 white cards on a navy band, each tagged US / UK / EU) → Sorting out a problem (3 steps) → Why people use OnBusLaw (§-numbered) → latest posts → Popular questions → guide text → FAQ (visual order set with CSS `order`).
 
@@ -22,6 +22,15 @@ Top menu = pages with `navOrder` (Your rights, Refunds, Scams, Trademarks, Affil
 
 ## Content rules
 General legal **information, never advice**; OnBusLaw is not a law firm. Factual and evergreen: no invented fees, case outcomes, statistics or reviews; don't quote official fees (they change). Each guide covers US (federal, state differences flagged), UK (Scotland/NI differences noted) and EU side by side, says "as of October 2026" where time-sensitive, and lists official `"sources"` (all checked live 2026-10-14). Time-sensitive facts to re-check: UK DMCC subscription regime (expected spring 2027 at the earliest), FTC negative option rulemaking after the July 2025 click-to-cancel vacatur, UK Report Fraud service, APP reimbursement cap (£85,000), UK VAT threshold (£90,000), Data (Use and Access) Act 2025 cookie exemptions.
+
+## People, bylines and legal review
+**Never invent staff, authors, reviewers or credentials** (fake lawyers are deceptive and, in the UK, an offence). Only real, consenting people with verifiable details go in `shmor-site.json` → `"people"`:
+```json
+"people": { "jsmith": { "name": "Jane Smith", "role": "Legal reviewer", "credentials": "Solicitor (England & Wales)",
+  "bio": "…", "image": "https://…", "registry": { "label": "SRA register: 123456", "url": "https://…" }, "sameAs": ["https://www.linkedin.com/in/…"] } }
+```
+Then on a page: `"reviewedBy": "jsmith", "reviewed": "YYYY-MM-DD"` (and/or `"writtenBy"`). This adds "Reviewed by Jane Smith, Solicitor…, date" to the byline, `reviewedBy`/`lastReviewed` (or a Person `author`) to JSON-LD, and a profile card (anchor `#person-<id>`) on `/editorial-standards/`. The "Our writers and legal reviewers" section stays hidden while `people` is empty.
+Every guide page (not home/blog/posts) shows a byline bar under the hero (`seo.bylines`): "Written by the OnBusLaw editorial team · Fact-checked against official sources (or Reviewed by …) · Updated date · How we write our guides". The editorial standards page says unreviewed guides are fact-checked by the editorial team but not lawyer-reviewed, and discloses AI-assisted drafting; keep those statements true.
 
 ## Commands (run here)
 ```bash

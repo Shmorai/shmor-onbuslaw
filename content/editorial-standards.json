@@ -1,0 +1,88 @@
+{
+  "updated": "2026-10-14",
+  "slug": "editorial-standards",
+  "short": "Editorial standards",
+  "title": "Editorial Standards: How OnBusLaw Writes Its Guides",
+  "description": "How OnBusLaw researches, fact-checks, reviews and updates its legal guides, how we stay independent, how we use AI tools and how to report a mistake.",
+  "keywords": [
+    "editorial standards",
+    "editorial policy",
+    "fact checking",
+    "corrections",
+    "about onbuslaw",
+    "who writes onbuslaw",
+    "legal review",
+    "trust"
+  ],
+  "cardText": "How we research, fact-check, review and update our guides, and how to report a mistake.",
+  "eyebrow": "About OnBusLaw",
+  "h1": "Our editorial standards",
+  "intro": "OnBusLaw exists to explain the law of buying and selling online clearly and accurately. These are the standards every guide is written and checked against, and what we will and won’t do.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1589994965851-a8f479c573a9",
+    "alt": "Statue of Lady Justice holding scales and a sword",
+    "credit": "Tingey Injury Law Firm",
+    "creditUrl": "https://unsplash.com/@tingeyinjurylawfirm"
+  },
+  "search": false,
+  "sections": [
+    {
+      "h2": "Who we are",
+      "html": "<p>OnBusLaw is a free legal information website and part of the <a href=\"https://shmor.ai/\">Shmor.ai</a> network. Our guides are written and maintained by the OnBusLaw editorial team.</p><p>OnBusLaw is <strong>not a law firm</strong> and doesn’t give legal advice. We don’t represent anyone, and reading our guides doesn’t create a lawyer–client relationship. Where we name individual writers or reviewers, they are real people whose details and qualifications are shown in full, with links you can check.</p>"
+    },
+    {
+      "h2": "How we research",
+      "html": "<p>We build every guide from <strong>primary sources</strong>, in this order of preference:</p><ol><li>legislation and regulations, such as legislation.gov.uk, EUR-Lex and US federal law;</li>\n<li>guidance from regulators and official bodies, such as the FTC, the CMA, the ICO, the European Commission and national IP offices;</li>\n<li>court and tribunal decisions;</li>\n<li>official public services, such as GOV.UK, Your Europe and USA.gov.</li></ol><p>We use news reports and professional commentary only to find out what has changed, and then confirm it with the primary source. Every guide lists its main sources at the end, and we check those links still work when we update a guide.</p>"
+    },
+    {
+      "h2": "Accuracy and fact-checking",
+      "html": "<ul><li>Every legal rule, deadline, threshold and figure in a guide is checked against an official source before publication.</li>\n<li>We don’t invent statistics, case outcomes, prices or reviews, and we don’t quote official fees, which change often. We link to the official fee pages instead.</li>\n<li>We explain the US, UK and EU positions separately, and say when rules differ within a country, such as Scotland or individual US states.</li>\n<li>Where a rule is changing or uncertain, we say so and give the date of the position we describe (for example “as of October 2026”).</li></ul>"
+    },
+    {
+      "h2": "Legal review",
+      "html": "<p>When a guide shows <strong>“Reviewed by”</strong>, a named, qualified lawyer has checked it for accuracy on the date shown. Their qualifications and professional registration are listed on this page, with a link to the official register where one exists.</p><p>Guides without a “Reviewed by” line have been researched and fact-checked against official sources by our editorial team, but haven’t been reviewed by a lawyer. Either way, our guides are general information, not advice for your situation.</p>"
+    },
+    {
+      "h2": "Keeping guides up to date",
+      "html": "<p>Each guide shows the date it was last updated. We aim to review time-sensitive guides, such as those covering new rules, scam reporting and tax thresholds, at least every six months, and sooner when the law changes. New rules and changes are covered on our <a href=\"/blog/\">blog</a> and then reflected in the guides.</p>"
+    },
+    {
+      "h2": "Use of AI tools",
+      "html": "<p>We use software tools, including AI writing assistants, to help research, draft and edit guides. AI tools can make mistakes, so they never have the final word: every factual claim is checked against the primary sources we link to before a guide is published or updated.</p>"
+    },
+    {
+      "h2": "Independence and how we make money",
+      "html": "<p>OnBusLaw is free to read. Some pages may include affiliate links to services such as legal documents, trademark filing or identity protection, and we may earn a commission if you sign up, at no extra cost to you.</p><ul><li>Commercial partners never write, pay for or approve what our guides say about the law.</li>\n<li>Partner links are clearly separated from the legal information and labelled.</li>\n<li>We don’t accept payment to recommend a law firm or service in our guides.</li></ul><p>Read <a href=\"https://shmor.ai/affiliate-disclosure/\">how we make money</a>.</p>"
+    },
+    {
+      "h2": "Corrections",
+      "html": "<p>If you spot a mistake or an out-of-date rule, please tell us through the <a href=\"https://shmor.ai/contact/\">Shmor.ai contact page</a>, naming the page and, if you can, the source. We review every report, correct confirmed errors promptly and update the page date. Where a correction changes the substance of a guide, we say so on the page.</p><p>We can’t answer questions about individual legal problems. For those, see <a href=\"/complaints/\">where to get help</a>, or contact a qualified lawyer or a free advice service.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Are OnBusLaw’s guides written by lawyers?",
+      "a": "They are written by the OnBusLaw editorial team from official legal sources. A guide is only described as legally reviewed when it shows a “Reviewed by” line naming a qualified lawyer, whose details are listed on this page."
+    },
+    {
+      "q": "Can I rely on OnBusLaw instead of a lawyer?",
+      "a": "No. Our guides explain the general rules so you can understand your position and ask the right questions. For decisions that matter, get advice from a qualified lawyer or a free advice service about your own circumstances."
+    },
+    {
+      "q": "How do I report an error?",
+      "a": "Use the <a href=\"https://shmor.ai/contact/\">Shmor.ai contact page</a> and tell us which page is affected and what’s wrong. We review every report."
+    }
+  ],
+  "blocks": [
+    {
+      "type": "people",
+      "title": "Our writers and legal reviewers",
+      "intro": "Real people, with qualifications you can check."
+    }
+  ],
+  "related": [
+    "consumer-rights",
+    "complaints",
+    "blog"
+  ]
+}

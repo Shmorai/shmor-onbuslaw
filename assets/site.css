@@ -438,6 +438,7 @@ section h2 { font-size: clamp(26px, 3.2vw, 36px); margin-bottom: 22px; }
 .foot-legal svg { width: 28px; height: 28px; flex: 0 0 auto; color: var(--gold-lt); margin-top: 2px; }
 .foot-legal p { margin: 0; font-size: 14px; line-height: 1.6; }
 .foot-legal strong { color: #fff; }
+.foot-legal a { color: var(--gold-lt); font-weight: 600; }
 .site-footer .ol-word { color: #fff; }
 .site-footer .ol-word b { color: var(--gold-lt); }
 .foot-cols h4 { color: #fff; font-size: 13px; letter-spacing: .1em; text-transform: uppercase; }
@@ -455,3 +456,21 @@ section h2 { font-size: clamp(26px, 3.2vw, 36px); margin-bottom: 22px; }
   .nav a { border-radius: 0; padding: 13px 4px; border-bottom: 1px solid var(--line); }
   .nav a::after { display: none; }
 }
+
+/* Byline bar under guide heroes + reviewer profiles */
+.byline { background: #fff; border-bottom: 1px solid var(--line); }
+.byline .wrap { display: flex; align-items: flex-start; gap: 10px; padding-top: 13px; padding-bottom: 13px; }
+.byline .ico { width: 20px; height: 20px; flex: 0 0 auto; margin-top: 1px; color: var(--gold); }
+.byline.is-reviewed .ico { color: #fff; background: var(--navy); border-radius: 50%; padding: 3px; }
+.byline p { margin: 0; font-size: 14px; color: var(--ink-2); line-height: 1.55; }
+.byline .sep { color: var(--gold); margin: 0 4px; }
+.byline a { color: var(--accent); font-weight: 600; text-underline-offset: 3px; }
+.post-byline a { color: inherit; font-weight: 600; }
+.people { grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); }
+.person { background: #fff; border: 1px solid var(--line); border-top: 3px solid var(--navy); border-radius: 0 0 var(--radius) var(--radius); padding: 22px; scroll-margin-top: 100px; }
+.person-img { width: 96px; height: 96px; border-radius: 50%; object-fit: cover; margin-bottom: 12px; box-shadow: 0 0 0 3px var(--gold-lt); }
+.person h3 { font-size: 21px; color: var(--navy); margin: 0 0 4px; }
+.person p { margin: 6px 0 0; font-size: 14.5px; color: var(--ink-2); }
+.person-role { font-weight: 600; color: var(--navy) !important; }
+.person-cred { color: var(--gold-ink) !important; font-weight: 600; }
+.person a { color: var(--accent); font-weight: 600; }
