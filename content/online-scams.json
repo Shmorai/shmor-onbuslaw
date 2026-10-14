@@ -1,0 +1,115 @@
+{
+  "updated": "2026-10-14",
+  "slug": "online-scams",
+  "nav": "Scams",
+  "navOrder": 3,
+  "title": "Online Scams and Fraud: How to Spot, Stop and Report",
+  "description": "How to spot online scams, what to do if you’ve paid a fraudster and where to report fraud in the US, UK and EU, including UK scam reimbursement rules.",
+  "keywords": [
+    "scam",
+    "scams",
+    "online scams",
+    "online fraud",
+    "fraud",
+    "report a scam",
+    "report fraud",
+    "phishing",
+    "smishing",
+    "fake website",
+    "scammed",
+    "money back scam",
+    "app scam",
+    "action fraud",
+    "report fraud uk",
+    "ic3",
+    "reportfraud.ftc.gov",
+    "crypto scam",
+    "romance scam"
+  ],
+  "cardText": "Warning signs, first steps if you’ve paid a scammer, where to report and how to get money back.",
+  "eyebrow": "Fraud & scams",
+  "h1": "Online scams: spot them, stop them, report them",
+  "intro": "Scammers rely on speed and pressure. If you think you’ve been scammed, contact your bank straight away, then report it. This guide covers the warning signs, your first steps and your rights to get money back.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1624969862644-791f3dc98927",
+    "alt": "Person in fingerless gloves typing on a laptop in the dark",
+    "credit": "Towfiqu barbhuiya",
+    "creditUrl": "https://unsplash.com/@towfiqu999999"
+  },
+  "searchPlaceholder": "Search scam and fraud guides…",
+  "sections": [
+    {
+      "h2": "If you’ve been scammed: act now",
+      "html": "<ol><li><strong>Contact your bank or card provider immediately</strong> using the number on your card or statement. In the UK you can call <strong>159</strong> to reach most banks’ fraud teams. Ask them to stop further payments and try to recover the money.</li>\n<li><strong>Secure your accounts:</strong> change passwords (starting with your email), turn on two-step verification and log out other sessions.</li>\n<li><strong>Keep evidence:</strong> screenshots, emails, messages, website addresses, payment details and phone numbers.</li>\n<li><strong>Report it</strong> (see below), and warn the platform where you met the scammer.</li>\n<li><strong>Watch for follow-up “recovery” scams:</strong> anyone promising to get your money back for a fee is very likely another scammer.</li></ol>"
+    },
+    {
+      "h2": "Common online scams",
+      "html": "<ul><li><strong>Fake online shops</strong> selling goods that never arrive. See <a href=\"/blog/fake-online-shops/\">how to spot a fake shop</a>.</li>\n<li><strong>Marketplace scams:</strong> buyers or sellers who ask you to pay or talk outside the platform, or send fake payment emails.</li>\n<li><strong>Phishing and smishing:</strong> emails and texts pretending to be a delivery company, bank, tax authority or streaming service, linking to fake login or payment pages.</li>\n<li><strong>Impersonation:</strong> calls or messages from “your bank”, “the police” or a family member on a new number asking you to move money.</li>\n<li><strong>Investment and crypto scams</strong>, often promoted with fake celebrity endorsements.</li>\n<li><strong>Romance scams</strong> and <strong>job or “task” scams</strong> that ask you to pay to earn.</li>\n<li><strong>Tech support scams</strong> that ask for remote access to your computer.</li></ul>"
+    },
+    {
+      "h2": "Warning signs",
+      "html": "<ul><li>Pressure to act right now, or secrecy (“don’t tell your bank”).</li>\n<li>Requests to pay by bank transfer, gift cards or cryptocurrency instead of a protected card payment.</li>\n<li>Prices or returns that look too good to be true.</li>\n<li>Requests for one-time passcodes, PINs or remote access. Banks never ask for these.</li>\n<li>Links that don’t match the real website address, and brand-new websites with no clear company details.</li></ul>"
+    },
+    {
+      "h2": "Where to report fraud",
+      "html": "<table><thead><tr><th>Where you are</th><th>Report to</th></tr></thead><tbody>\n<tr><td><strong>US</strong></td><td>The FTC at ReportFraud.ftc.gov; internet crime to the FBI’s Internet Crime Complaint Center (ic3.gov); identity theft at IdentityTheft.gov. Forward scam texts to 7726 (SPAM).</td></tr>\n<tr><td><strong>England, Wales and Northern Ireland</strong></td><td><strong>Report Fraud</strong> (reportfraud.police.uk or 0300 123 2040), run by the City of London Police. It replaced Action Fraud in 2025–26: see <a href=\"/blog/report-fraud-uk/\">what changed</a>.</td></tr>\n<tr><td><strong>Scotland</strong></td><td>Police Scotland on 101.</td></tr>\n<tr><td><strong>UK-wide</strong></td><td>Forward scam texts to 7726 and suspicious emails to report@phishing.gov.uk (National Cyber Security Centre).</td></tr>\n<tr><td><strong>EU</strong></td><td>Your national police (many have online reporting). Europol lists national cybercrime reporting sites. For a cross-border dispute with a real EU business, contact ECC-Net.</td></tr>\n</tbody></table><p>In an emergency, or if someone is in danger, call 911 (US), 999 (UK) or 112 (EU).</p>"
+    },
+    {
+      "h2": "Getting your money back",
+      "html": "<ul><li><strong>Card payments:</strong> ask for a <a href=\"/chargebacks/\">chargeback or Section 75 claim</a>, even if you authorised the payment.</li>\n<li><strong>UK bank transfers:</strong> since 7 October 2024, banks and payment firms must reimburse most victims of authorised push payment (APP) scams made through Faster Payments or CHAPS, up to <strong>£85,000</strong> per claim. Claim within 13 months of the last payment. Firms can refuse if you acted with gross negligence or were complicit, and can apply an excess of up to £100.</li>\n<li><strong>US transfers:</strong> protection for payments you authorised yourself is limited, so contact your bank or app provider immediately. Unauthorised electronic transfers are covered by the Electronic Fund Transfer Act.</li>\n<li><strong>EU:</strong> unauthorised payments must be refunded under PSD2. Payments you authorised to a scammer are generally harder to recover, so report quickly in case your bank can freeze the funds.</li>\n<li><strong>Gift cards and crypto:</strong> recovery is rare. Contact the gift card issuer or exchange immediately anyway.</li></ul><p class=\"note\"><strong>General information, not legal advice.</strong> Rules vary by country, state and situation, and they change. Check the official sources below, and speak to a qualified lawyer or a free advice service if a lot is at stake.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Will my bank refund me if I was scammed?",
+      "a": "If the payment was unauthorised, usually yes. If you authorised it, it depends: card payments may be recoverable by chargeback, and in the UK most bank transfer scams must now be reimbursed up to £85,000. In the US and EU, protection for authorised transfers is more limited, so act fast."
+    },
+    {
+      "q": "Is Action Fraud still running?",
+      "a": "No. In the UK, Action Fraud has been replaced by Report Fraud, run by the City of London Police, which launched in December 2025. Report at reportfraud.police.uk or on 0300 123 2040 (Scotland: Police Scotland on 101)."
+    },
+    {
+      "q": "Someone says they can recover my lost money for a fee. Is it real?",
+      "a": "Almost certainly not. “Recovery” scams target people who have already lost money. Police, regulators and genuine banks don’t charge you to recover funds."
+    },
+    {
+      "q": "Should I report a scam if I didn’t lose any money?",
+      "a": "Yes. Reports help police and regulators spot patterns, take down websites and warn others. Forward scam texts and emails, and report fake websites."
+    }
+  ],
+  "related": [
+    "identity-theft",
+    "chargebacks",
+    "blog/fake-online-shops"
+  ],
+  "sources": [
+    {
+      "title": "FTC: ReportFraud.ftc.gov",
+      "url": "https://reportfraud.ftc.gov/"
+    },
+    {
+      "title": "FBI Internet Crime Complaint Center (IC3)",
+      "url": "https://www.ic3.gov/"
+    },
+    {
+      "title": "Report Fraud (UK)",
+      "url": "https://www.reportfraud.police.uk/"
+    },
+    {
+      "title": "GOV.UK: Report Fraud, the new service from City of London Police",
+      "url": "https://www.gov.uk/government/news/report-fraud-new-service-from-city-of-london-police"
+    },
+    {
+      "title": "NCSC: phishing and scams",
+      "url": "https://www.ncsc.gov.uk/collection/phishing-scams"
+    },
+    {
+      "title": "Payment Systems Regulator: APP scams reimbursement",
+      "url": "https://www.psr.org.uk/our-work/app-scams/"
+    },
+    {
+      "title": "Europol: report cybercrime online",
+      "url": "https://www.europol.europa.eu/report-a-crime/report-cybercrime-online"
+    }
+  ]
+}

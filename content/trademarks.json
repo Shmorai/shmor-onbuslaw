@@ -1,0 +1,107 @@
+{
+  "updated": "2026-10-14",
+  "slug": "trademarks",
+  "nav": "Trademarks",
+  "navOrder": 4,
+  "title": "How to Register a Trademark in the US, UK and EU",
+  "description": "A plain-English guide to trademarks: what you can protect, searching first, filing with the USPTO, UKIPO or EUIPO, ™ vs ® and protecting your brand online.",
+  "keywords": [
+    "trademark",
+    "trademarks",
+    "trade mark",
+    "register a trademark",
+    "trademark registration",
+    "uspto",
+    "ukipo",
+    "euipo",
+    "madrid system",
+    "brand protection",
+    "logo",
+    "tm symbol",
+    "registered trademark",
+    "trademark search",
+    "trademark classes"
+  ],
+  "cardText": "What a trademark protects, searching first, filing in the US, UK and EU, and ™ vs ®.",
+  "eyebrow": "Brands & intellectual property",
+  "h1": "Trademarks: protecting your brand name and logo",
+  "intro": "A registered trademark gives you exclusive rights to your brand for the goods and services you list, and makes it far easier to stop copycats online. Here’s how registration works in the US, UK and EU.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85",
+    "alt": "Person writing and signing a paper document",
+    "credit": "Scott Graham",
+    "creditUrl": "https://unsplash.com/@amstram"
+  },
+  "searchPlaceholder": "Search trademark and IP guides…",
+  "sections": [
+    {
+      "h2": "What a trademark protects",
+      "html": "<p>A trademark is a sign that tells customers who a product or service comes from: usually a <strong>name, logo or slogan</strong>, and sometimes a sound, colour or shape. It’s registered for specific goods and services, grouped into 45 classes under the international Nice Classification (classes 1–34 for goods, 35–45 for services).</p><p>Registering a company name or buying a domain name does <strong>not</strong> give you trademark rights. In the UK and EU, rights mainly come from registration. In the US, using a mark in commerce creates some “common law” rights in the area where you use it, but federal registration gives much stronger, nationwide protection.</p>"
+    },
+    {
+      "h2": "Search before you file",
+      "html": "<ul><li>Search the official registers: the USPTO’s trademark search, the UK IPO’s trade mark search and the EUIPO’s eSearch, or TMview, which covers many offices at once.</li>\n<li>Look for similar marks for similar goods or services, not just identical names.</li>\n<li>Search the web, marketplaces and social media for unregistered use too.</li>\n<li>Choose a <strong>distinctive</strong> mark: invented or unusual words are easier to register and protect than descriptive ones such as “Best Online Shoes”.</li></ul>"
+    },
+    {
+      "h2": "Where to file",
+      "html": "<table><thead><tr><th>Office</th><th>Covers</th><th>Key points</th></tr></thead><tbody>\n<tr><td><strong>USPTO</strong></td><td>United States</td><td>You must use the mark in commerce, or file on an “intent to use” basis and prove use later. Applicants based outside the US must use a US-licensed attorney. Registrations last 10 years and are renewable, with a declaration of use due between the 5th and 6th years.</td></tr>\n<tr><td><strong>UK IPO</strong></td><td>United Kingdom</td><td>Apply online. Registration lasts 10 years and is renewable indefinitely.</td></tr>\n<tr><td><strong>EUIPO</strong></td><td>All 27 EU countries</td><td>One EU trade mark covers the whole EU. Lasts 10 years, renewable. You can also file with individual national offices.</td></tr>\n<tr><td><strong>WIPO (Madrid System)</strong></td><td>Many countries</td><td>One international application, based on a home application or registration, designating the countries you choose.</td></tr>\n</tbody></table><p>Official fees depend on the office and the number of classes, so check each office’s current fee page. After filing, the office examines your application and publishes it so others can oppose it.</p>"
+    },
+    {
+      "h2": "™ vs ®",
+      "html": "<ul><li><strong>™</strong> can be used with any mark you claim as yours, registered or not.</li>\n<li><strong>®</strong> should only be used once the mark is registered, and only in countries where it’s registered.</li></ul><p>In the UK, falsely representing a mark as registered is a criminal offence under the Trade Marks Act 1994. In the US, misusing ® can be treated as fraud on the public and can damage your ability to enforce your rights.</p>"
+    },
+    {
+      "h2": "Protecting your brand online",
+      "html": "<ul><li><strong>Marketplaces:</strong> most large marketplaces have IP complaint tools, and brand protection programmes that often require a registered or pending trademark.</li>\n<li><strong>Domain names:</strong> if someone registers a domain in bad faith using your mark, the UDRP procedure (administered by WIPO and others) can transfer it, without going to court.</li>\n<li><strong>Social media:</strong> platforms offer trademark reporting forms for impersonating accounts and counterfeit listings.</li>\n<li><strong>Watch for filing scams:</strong> trademark owners often receive official-looking letters or invoices from private companies asking for “registration” or “monitoring” fees. The USPTO, UK IPO and EUIPO all warn about these. Check who the sender is before paying anything.</li></ul>"
+    },
+    {
+      "h2": "Trademarks, copyright and patents",
+      "html": "<p>Trademarks protect brand identifiers. <a href=\"/copyright-and-takedowns/\">Copyright</a> protects original creative works such as text, photos, software and designs, and arises automatically. Patents protect inventions and must be applied for. A logo can be protected by both copyright and trademark law.</p><p class=\"note\"><strong>General information, not legal advice.</strong> Rules vary by country, state and situation, and they change. Check the official sources below, and speak to a qualified lawyer or a free advice service if a lot is at stake.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do I need a lawyer to register a trademark?",
+      "a": "Not in the UK or EU if you’re based there, though many businesses use one. In the US, applicants based outside the US must use a US-licensed attorney. A specialist can help with searches, the specification of goods and services, and objections."
+    },
+    {
+      "q": "How long does registration take?",
+      "a": "It varies by office and by whether anyone objects, from a few months to more than a year. Check each office’s published processing times."
+    },
+    {
+      "q": "Can I trademark my domain name?",
+      "a": "A domain can be registered as a trademark if it’s used as a brand for goods or services and is distinctive, rather than just being a web address."
+    },
+    {
+      "q": "Does a UK trademark protect me in the EU?",
+      "a": "No. Since Brexit, UK and EU trade marks are separate. You need an EU trade mark (or national marks) for the EU, and a UK mark for the UK."
+    }
+  ],
+  "related": [
+    "copyright-and-takedowns",
+    "selling-on-marketplaces",
+    "online-business-legal-checklist"
+  ],
+  "sources": [
+    {
+      "title": "USPTO: trademarks",
+      "url": "https://www.uspto.gov/trademarks"
+    },
+    {
+      "title": "GOV.UK: register a trade mark",
+      "url": "https://www.gov.uk/how-to-register-a-trade-mark"
+    },
+    {
+      "title": "EUIPO: trade marks",
+      "url": "https://www.euipo.europa.eu/en/trade-marks"
+    },
+    {
+      "title": "WIPO: the Madrid System",
+      "url": "https://www.wipo.int/madrid/en/"
+    },
+    {
+      "title": "WIPO: domain name dispute resolution",
+      "url": "https://www.wipo.int/amc/en/domains/"
+    }
+  ]
+}

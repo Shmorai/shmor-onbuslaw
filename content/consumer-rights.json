@@ -1,0 +1,100 @@
+{
+  "updated": "2026-10-14",
+  "slug": "consumer-rights",
+  "nav": "Your rights",
+  "navOrder": 1,
+  "title": "Online Consumer Rights in the US, UK and EU Explained",
+  "description": "Your rights when you shop online: cancellation periods, faulty goods, late or missing deliveries and hidden fees, explained for the US, UK and EU.",
+  "keywords": [
+    "consumer rights",
+    "online consumer rights",
+    "consumer rights act",
+    "faulty goods",
+    "not as described",
+    "late delivery",
+    "lost parcel",
+    "consumer law",
+    "consumer protection",
+    "warranty",
+    "legal guarantee",
+    "my rights online shopping"
+  ],
+  "cardText": "Faulty goods, late deliveries, hidden costs and what sellers must tell you, in the US, UK and EU.",
+  "eyebrow": "Consumer rights",
+  "h1": "Your consumer rights when you shop online",
+  "intro": "Online shoppers have strong legal protections, but they differ between the US, the UK and the EU. Here’s what applies when you buy from a business, as of October 2026.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1589994965851-a8f479c573a9",
+    "alt": "Statue of Lady Justice holding scales and a sword",
+    "credit": "Tingey Injury Law Firm",
+    "creditUrl": "https://unsplash.com/@tingeyinjurylawfirm"
+  },
+  "searchPlaceholder": "Search consumer rights guides…",
+  "sections": [
+    {
+      "h2": "Your rights at a glance",
+      "html": "<table><thead><tr><th>Right</th><th>UK</th><th>EU</th><th>US</th></tr></thead><tbody>\n<tr><td><strong>Cancel without a reason</strong></td><td>14 days for most online purchases (Consumer Contracts Regulations 2013)</td><td>14 days for most online purchases (Consumer Rights Directive)</td><td>No general federal right for online purchases: the seller’s return policy and some state laws apply</td></tr>\n<tr><td><strong>Faulty or not as described</strong></td><td>Repair, replacement or refund under the Consumer Rights Act 2015, with a 30-day right to reject</td><td>Legal guarantee of at least 2 years from delivery</td><td>Implied warranties under state law unless validly excluded, plus any written warranty</td></tr>\n<tr><td><strong>Late delivery</strong></td><td>Delivery within 30 days unless agreed otherwise</td><td>Delivery within 30 days unless agreed otherwise</td><td>FTC Mail, Internet or Telephone Order Rule: ship on time or offer a refund</td></tr>\n<tr><td><strong>Card protection</strong></td><td>Section 75 and chargebacks</td><td>Card chargebacks; refunds for unauthorised payments</td><td>Fair Credit Billing Act; Electronic Fund Transfer Act for debit</td></tr>\n</tbody></table><p>These rights mostly apply when you buy from a <strong>business</strong> (a “trader”). Buying from a private individual gives you far fewer rights, which is why it matters whether a marketplace seller is a business. See <a href=\"/refunds-and-returns/\">refunds and returns</a> and <a href=\"/chargebacks/\">card disputes</a> for the details.</p>"
+    },
+    {
+      "h2": "What sellers must tell you before you buy",
+      "html": "<p>In the UK and EU, an online trader must give you key information before you’re bound by an order, including:</p><ul><li>who they are, their geographic address and how to contact them;</li>\n<li>the main characteristics of the goods or service;</li>\n<li>the total price including taxes, and any delivery or other charges;</li>\n<li>delivery arrangements, and your cancellation rights and how to use them.</li></ul><p>The final order button must make clear that you’re agreeing to pay (for example “Order with obligation to pay” or “Buy now”), and pre-ticked boxes can’t be used to add extra paid items. In the UK, the Digital Markets, Competition and Consumers Act 2024 also bans “drip pricing”, where unavoidable fees are only revealed late in the checkout.</p><p>In the US, the FTC Act prohibits unfair and deceptive practices, including misleading prices and claims, and state laws add further rules. The FTC’s Rule on Unfair or Deceptive Fees, in force since May 2025, requires the total price to be shown upfront for live-event tickets and short-term lodging.</p>"
+    },
+    {
+      "h2": "Faulty goods and digital content",
+      "html": "<p><strong>UK:</strong> under the Consumer Rights Act 2015, goods must be of satisfactory quality, fit for purpose and as described. If they aren’t, you can reject them for a full refund within <strong>30 days</strong>. After that, the trader gets one chance to repair or replace, and if that fails you can ask for a price reduction or reject the goods. If a fault appears within six months of delivery, it’s presumed to have been there at delivery unless the trader proves otherwise. Digital content, such as apps and downloads, must also be of satisfactory quality.</p><p><strong>EU:</strong> sellers must provide a legal guarantee of conformity of at least <strong>two years</strong> from delivery. You can ask for repair or replacement first, then a price reduction or refund. Faults that appear within one year are presumed to have existed at delivery (some countries give longer).</p><p><strong>US:</strong> state law (based on the Uniform Commercial Code) generally implies a warranty that goods are fit for their ordinary purpose, unless the seller validly sells “as is” where allowed. Written warranties are covered by the federal Magnuson-Moss Warranty Act. For problems, start with the seller, then consider a <a href=\"/chargebacks/\">card dispute</a>.</p>"
+    },
+    {
+      "h2": "Late, missing or damaged deliveries",
+      "html": "<p><strong>UK and EU:</strong> goods remain the trader’s responsibility until they come into your physical possession (or that of someone you nominated). If a courier loses or damages your parcel, the trader must sort it out: you don’t have to chase the courier. If delivery is late, you can usually set a reasonable extra deadline and cancel if it’s missed, or cancel straight away if the date was essential.</p><p><strong>US:</strong> the FTC’s Mail, Internet or Telephone Order Merchandise Rule requires sellers to ship within the time they state, or within 30 days if they don’t give one. If they can’t, they must tell you and let you cancel for a prompt refund.</p>"
+    },
+    {
+      "h2": "Who enforces consumer law",
+      "html": "<ul><li><strong>UK:</strong> the Competition and Markets Authority (which since April 2025 can fine businesses directly for consumer law breaches) and local Trading Standards. Citizens Advice runs the consumer advice service in England and Wales; Advice Direct Scotland and Consumerline in Northern Ireland do the same.</li>\n<li><strong>EU:</strong> national consumer authorities, working together through the Consumer Protection Cooperation network. The European Consumer Centres Network (ECC-Net) gives free help with cross-border purchases.</li>\n<li><strong>US:</strong> the Federal Trade Commission, state attorneys general and, for financial products, the Consumer Financial Protection Bureau.</li></ul><p class=\"note\"><strong>General information, not legal advice.</strong> Rules vary by country, state and situation, and they change. Check the official sources below, and speak to a qualified lawyer or a free advice service if a lot is at stake.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do I have the same rights when buying from a private seller?",
+      "a": "No. Most consumer rights apply only when you buy from a business. A private seller in the UK must still describe goods accurately, but you won’t have the 14-day cancellation right. EU online marketplaces must tell you whether a seller is a trader or a private individual."
+    },
+    {
+      "q": "Do I have rights if I buy from a business in another country?",
+      "a": "Often, yes. If a business directs its sales to your country, the mandatory consumer protections of the country where you live usually still apply. Enforcing them across borders is harder, though, so paying by card and using <a href=\"/chargebacks/\">chargeback rights</a> can be your best protection."
+    },
+    {
+      "q": "Does a shop’s “no refunds” sign override my rights?",
+      "a": "Not in the UK or EU. A business can’t remove your statutory rights for faulty goods, and terms that try to are not binding. In the US, sellers have more freedom to set return policies, but must not mislead you about them."
+    },
+    {
+      "q": "Are sale or discounted items covered?",
+      "a": "Yes. In the UK and EU, statutory rights apply to sale items too, although you can’t complain about a fault that was pointed out to you before you bought."
+    }
+  ],
+  "related": [
+    "refunds-and-returns",
+    "chargebacks",
+    "complaints"
+  ],
+  "sources": [
+    {
+      "title": "Consumer Rights Act 2015 (legislation.gov.uk)",
+      "url": "https://www.legislation.gov.uk/ukpga/2015/15/contents"
+    },
+    {
+      "title": "Consumer Contracts Regulations 2013 (legislation.gov.uk)",
+      "url": "https://www.legislation.gov.uk/uksi/2013/3134/contents"
+    },
+    {
+      "title": "Your Europe: consumer rights",
+      "url": "https://europa.eu/youreurope/citizens/consumers/index_en.htm"
+    },
+    {
+      "title": "FTC: Mail, Internet, or Telephone Order Merchandise Rule",
+      "url": "https://www.ftc.gov/legal-library/browse/rules/mail-internet-or-telephone-order-merchandise-rule"
+    },
+    {
+      "title": "FTC consumer advice",
+      "url": "https://consumer.ftc.gov/"
+    }
+  ]
+}

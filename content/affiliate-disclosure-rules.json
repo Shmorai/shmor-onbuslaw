@@ -1,0 +1,107 @@
+{
+  "updated": "2026-10-14",
+  "slug": "affiliate-disclosure-rules",
+  "nav": "Affiliates",
+  "navOrder": 5,
+  "title": "Affiliate and Influencer Disclosure Rules: FTC, UK, EU",
+  "description": "How to disclose affiliate links, sponsored posts and gifted products under FTC, UK ASA and CMA, and EU rules, plus the fake review bans now in force.",
+  "keywords": [
+    "affiliate disclosure",
+    "ftc disclosure",
+    "ftc endorsement guides",
+    "influencer rules",
+    "influencer disclosure",
+    "sponsored post",
+    "#ad",
+    "affiliate marketing rules",
+    "affiliate links",
+    "asa",
+    "cap code",
+    "fake reviews",
+    "review rules",
+    "gifted products",
+    "affiliate program"
+  ],
+  "cardText": "Disclosing affiliate links, sponsored posts and gifts, and the fake review bans, in the US, UK and EU.",
+  "eyebrow": "Creators & affiliates",
+  "h1": "Affiliate links and sponsored posts: the disclosure rules",
+  "intro": "If you earn commission, get paid or receive free products for promoting something, the law says your audience must be told, clearly and upfront. Here are the rules for creators, affiliate sites and brands.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1758272421492-1efdb36a441f",
+    "alt": "Woman recording a video in a living room",
+    "credit": "Vitaly Gariev",
+    "creditUrl": "https://unsplash.com/@silverkblack"
+  },
+  "searchPlaceholder": "Search affiliate and advertising guides…",
+  "sections": [
+    {
+      "h2": "The basic rule",
+      "html": "<p>If there’s a <strong>material connection</strong> between you and a brand that your audience wouldn’t expect, such as a payment, an affiliate commission, a free or discounted product, or a family or work relationship, you must disclose it. In all three regions, both the creator and the brand can be held responsible.</p><p>A good disclosure is <strong>clear</strong> (plain words like “Ad”, “Sponsored” or “I earn a commission if you buy through these links”), <strong>prominent</strong> (hard to miss) and <strong>upfront</strong> (before people engage, not buried at the end or behind “more”).</p>"
+    },
+    {
+      "h2": "United States: the FTC",
+      "html": "<ul><li>The FTC’s <strong>Endorsement Guides</strong>, updated in 2023, require “clear and conspicuous” disclosure of material connections. A disclosure should be hard to miss and close to the endorsement. Platform tools such as paid-partnership labels may not be enough on their own.</li>\n<li>In videos, disclose in the video itself, both said and shown on screen. In livestreams, repeat the disclosure periodically.</li>\n<li>The FTC’s <strong>rule on consumer reviews and testimonials</strong>, in force since 21 October 2024, bans fake reviews and testimonials, buying reviews that are conditioned on a particular sentiment, undisclosed reviews by company insiders, and misrepresenting review sites as independent. Breaches can lead to civil penalties.</li></ul>"
+    },
+    {
+      "h2": "United Kingdom: ASA, CMA and the DMCC Act",
+      "html": "<ul><li>The <strong>CAP Code</strong>, enforced by the Advertising Standards Authority, requires ads to be obviously identifiable. For influencer content, the ASA expects a clear label such as “#ad” or “Ad” upfront. Affiliate content counts as advertising.</li>\n<li>The <strong>Competition and Markets Authority</strong> enforces consumer law against hidden advertising, and has guidance for influencers and brands.</li>\n<li>Since 6 April 2025, the <strong>Digital Markets, Competition and Consumers Act 2024</strong> explicitly bans fake reviews and concealed incentivised reviews, and the CMA can now fine businesses directly, up to 10% of global turnover.</li></ul>"
+    },
+    {
+      "h2": "European Union",
+      "html": "<ul><li>The <strong>Unfair Commercial Practices Directive</strong> bans hidden advertising, including posing as an ordinary consumer while promoting your own or a client’s products.</li>\n<li>Since 2022, traders that show consumer reviews must say whether and how they check those reviews come from real customers, and fake reviews are banned.</li>\n<li>Under the <strong>Digital Services Act</strong>, platforms must let users declare when their content is a commercial communication, and show that to viewers.</li>\n<li>Several countries have extra national rules, for example France’s 2023 influencer law, so check where your audience is.</li></ul>"
+    },
+    {
+      "h2": "Disclosure checklist",
+      "html": "<ol><li>Disclose on every post, video, story and email that contains a paid or affiliate link, not just in your profile or a separate page.</li>\n<li>Put it at the start, in the same language as the content.</li>\n<li>Use plain words: “Ad”, “Sponsored”, “Paid partnership with [brand]”, “Gifted”, “Affiliate link”.</li>\n<li>Don’t rely on vague tags such as “#sp”, “#collab” or “thanks [brand]”.</li>\n<li>Give honest opinions: don’t claim to have used a product you haven’t.</li>\n<li>Brands: put the requirements in your influencer and affiliate contracts and monitor compliance.</li></ol>"
+    },
+    {
+      "h2": "Running an affiliate website",
+      "html": "<p>Affiliate sites should disclose near the links (for example at the top of a review), and can also explain their business model on a dedicated page. Affiliate tracking usually relies on cookies or similar technologies, which in the UK and EU are generally <strong>non-essential</strong>, so you need consent before setting them. See <a href=\"/website-terms-and-privacy/\">terms, privacy and cookies</a>.</p><p class=\"note\"><strong>General information, not legal advice.</strong> Rules vary by country, state and situation, and they change. Check the official sources below, and speak to a qualified lawyer or accountant before making decisions for your business.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is a disclosure in my bio or “link in bio” enough?",
+      "a": "No. Regulators expect the disclosure with each endorsement, where people will see it before they engage. A bio disclosure can be an extra, not a replacement."
+    },
+    {
+      "q": "Do I have to disclose free products I didn’t ask for?",
+      "a": "If you post about a product a brand sent you for free, that’s a material connection, so disclose it (for example “Gifted”), even if you weren’t required to post."
+    },
+    {
+      "q": "Can I write reviews on my own products?",
+      "a": "You can promote your own products openly, but posing as an independent customer, or having staff post reviews without disclosure, is banned in the US, UK and EU."
+    },
+    {
+      "q": "Does the hashtag #ad work everywhere?",
+      "a": "It’s widely accepted when it’s prominent and upfront. In videos, also say it out loud. In non-English content, use a clear equivalent in that language."
+    }
+  ],
+  "related": [
+    "website-terms-and-privacy",
+    "online-business-legal-checklist",
+    "copyright-and-takedowns"
+  ],
+  "sources": [
+    {
+      "title": "FTC: endorsements, influencers and reviews",
+      "url": "https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews"
+    },
+    {
+      "title": "FTC: Disclosures 101 for social media influencers",
+      "url": "https://www.ftc.gov/business-guidance/resources/disclosures-101-social-media-influencers"
+    },
+    {
+      "title": "ASA: influencers’ guide to making clear that ads are ads",
+      "url": "https://www.asa.org.uk/resource/influencers-guide.html"
+    },
+    {
+      "title": "GOV.UK: social media endorsements guide for influencers",
+      "url": "https://www.gov.uk/government/publications/social-media-endorsements-guide-for-influencers"
+    },
+    {
+      "title": "European Commission: unfair commercial practices law",
+      "url": "https://commission.europa.eu/law/law-topic/consumer-protection-law/unfair-commercial-practices-law_en"
+    }
+  ]
+}

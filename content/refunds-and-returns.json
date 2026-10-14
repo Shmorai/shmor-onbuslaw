@@ -1,0 +1,101 @@
+{
+  "updated": "2026-10-14",
+  "slug": "refunds-and-returns",
+  "nav": "Refunds",
+  "navOrder": 2,
+  "title": "Online Refunds and Returns: Your Cancellation Rights",
+  "description": "How to return an online order and get your money back: the 14-day UK and EU cancellation right, refund deadlines, exceptions and US return policies.",
+  "keywords": [
+    "refund",
+    "refunds",
+    "returns",
+    "return policy",
+    "cancel order",
+    "cancellation rights",
+    "14 day return",
+    "cooling off period",
+    "distance selling",
+    "right of withdrawal",
+    "return online order",
+    "refund online purchase",
+    "store credit"
+  ],
+  "cardText": "The 14-day cancellation right, refund deadlines, return costs and exceptions, plus US return policies.",
+  "eyebrow": "Refunds & returns",
+  "h1": "Online refunds and returns: how to get your money back",
+  "intro": "Changed your mind about something you ordered online? In the UK and EU you usually have 14 days to cancel. In the US it depends mainly on the store’s policy. Here’s how it works.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1449247666642-264389f5f5b1",
+    "alt": "Person holding a cardboard parcel box on a table",
+    "credit": "Bench Accounting",
+    "creditUrl": "https://unsplash.com/@benchaccounting"
+  },
+  "searchPlaceholder": "Search refund and returns guides…",
+  "sections": [
+    {
+      "h2": "The 14-day cancellation right (UK and EU)",
+      "html": "<p>When you buy from a business online, by phone or by mail order, you can usually cancel within <strong>14 days</strong> without giving a reason:</p><ul><li><strong>Goods:</strong> 14 days starting the day after you receive them (for multiple deliveries, the last item).</li>\n<li><strong>Services:</strong> 14 days from the day after you agree the contract. If you ask for the service to start sooner, you may have to pay for what you’ve used.</li>\n<li><strong>Digital content</strong> (downloads, streaming, apps): you lose the right once the download or stream starts, if you agreed to that and acknowledged you’d lose the right.</li></ul><p>If the trader didn’t tell you about your cancellation right, the period can be extended by up to 12 months. To cancel, tell the trader clearly: use their cancellation form, the EU <a href=\"/blog/eu-withdrawal-button/\">withdrawal button</a>, or any clear written statement. Then send the goods back within 14 days of telling them.</p>"
+    },
+    {
+      "h2": "Refund deadlines and return costs",
+      "html": "<ul><li>The trader must refund you within <strong>14 days</strong> of getting the goods back, or of you providing evidence that you’ve sent them, whichever is sooner. If no goods were delivered, it’s 14 days from when you cancelled.</li>\n<li>The refund must include the standard outbound delivery charge (not extra paid for express delivery).</li>\n<li>You usually pay return postage, unless the trader agreed to cover it or didn’t tell you that you’d have to.</li>\n<li>The refund should go back to your original payment method unless you agree otherwise.</li>\n<li>The trader can deduct an amount if you handled the goods more than needed to check them, as you could in a shop.</li></ul>"
+    },
+    {
+      "h2": "When the 14-day right doesn’t apply",
+      "html": "<p>Exceptions in the UK and EU include:</p><ul><li>goods made to your specifications or clearly personalised;</li>\n<li>perishable goods, such as food and flowers;</li>\n<li>sealed goods unsuitable for return for health or hygiene reasons once unsealed;</li>\n<li>sealed audio, video or software once you’ve unsealed it;</li>\n<li>newspapers and magazines (except subscriptions);</li>\n<li>accommodation, transport, car hire, catering and leisure services booked for a specific date or period, such as hotel rooms, flights and concert tickets;</li>\n<li>goods whose price depends on financial market fluctuations.</li></ul><p>These exceptions only affect the right to change your mind. If goods are faulty, your <a href=\"/consumer-rights/\">faulty goods rights</a> still apply.</p>"
+    },
+    {
+      "h2": "Returns in the US",
+      "html": "<p>There’s no general federal right to return online purchases just because you changed your mind. Your rights mainly come from:</p><ul><li><strong>The store’s return policy</strong>, which forms part of your contract. Read it before you buy, including any restocking fees and return shipping costs.</li>\n<li><strong>State laws</strong>: some states require retailers to display their refund policy and, if they don’t, give shoppers a default right to return goods within a set period.</li>\n<li><strong>Warranties</strong> for defective goods, and your <a href=\"/chargebacks/\">card dispute rights</a> if goods never arrive or aren’t what you ordered.</li></ul><p>The FTC’s Cooling-Off Rule is often mentioned, but it covers sales made at your home or at certain temporary locations, not ordinary online shopping.</p>"
+    },
+    {
+      "h2": "Faulty items are different",
+      "html": "<p>Returning a faulty or misdescribed item isn’t a “change of mind” cancellation. In the UK you can reject faulty goods within 30 days for a full refund, and the trader should cover the reasonable cost of returning them. In the EU, the two-year legal guarantee applies. Use the words “faulty” and “not as described” in your complaint so the trader knows which rights you rely on.</p>"
+    },
+    {
+      "h2": "If the seller won’t refund you",
+      "html": "<ol><li>Put your request in writing, quoting the rule (for example the Consumer Contracts Regulations 2013 in the UK) and giving a deadline.</li>\n<li>If you paid by card, ask your card provider about a <a href=\"/chargebacks/\">chargeback or Section 75 claim</a>.</li>\n<li>Escalate through an ADR scheme, consumer body or small claims court: see <a href=\"/complaints/\">how to complain</a>.</li></ol><p class=\"note\"><strong>General information, not legal advice.</strong> Rules vary by country, state and situation, and they change. Check the official sources below, and speak to a qualified lawyer or a free advice service if a lot is at stake.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can a shop refuse a refund because I opened the packaging?",
+      "a": "Not just for opening it to inspect the item, except for sealed hygiene items and sealed audio, video or software. In the UK and EU, a trader can reduce your refund if you handled or used the goods more than you’d need to in a shop."
+    },
+    {
+      "q": "Can a store give me a voucher instead of a refund?",
+      "a": "When you cancel under the UK or EU 14-day right, or reject faulty goods, you’re entitled to a refund to your original payment method unless you agree otherwise. In the US, it depends on the store’s policy."
+    },
+    {
+      "q": "How long does the seller have to refund me?",
+      "a": "In the UK and EU, 14 days from receiving the goods back or from your proof of postage, whichever is sooner. In the US, the store’s policy and card rules apply."
+    },
+    {
+      "q": "Who pays for return shipping?",
+      "a": "For change-of-mind cancellations in the UK and EU, usually you, if the trader told you so before you bought. For faulty goods, the trader should cover reasonable return costs."
+    }
+  ],
+  "related": [
+    "consumer-rights",
+    "chargebacks",
+    "complaints"
+  ],
+  "sources": [
+    {
+      "title": "Consumer Contracts Regulations 2013 (legislation.gov.uk)",
+      "url": "https://www.legislation.gov.uk/uksi/2013/3134/contents"
+    },
+    {
+      "title": "Your Europe: guarantees and returns",
+      "url": "https://europa.eu/youreurope/citizens/consumers/shopping/guarantees-returns/index_en.htm"
+    },
+    {
+      "title": "Citizens Advice: consumer rights",
+      "url": "https://www.citizensadvice.org.uk/consumer/"
+    },
+    {
+      "title": "FTC: the Cooling-Off Rule",
+      "url": "https://consumer.ftc.gov/articles/buyers-remorse-ftcs-cooling-rule-may-help"
+    }
+  ]
+}

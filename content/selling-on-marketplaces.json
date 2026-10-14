@@ -1,0 +1,96 @@
+{
+  "updated": "2026-10-14",
+  "slug": "selling-on-marketplaces",
+  "title": "Selling on Amazon, eBay or Etsy: Your Rights as a Seller",
+  "description": "Legal rights and duties for marketplace sellers: account suspensions, EU and UK platform rules, the US INFORM Consumers Act, IP complaints and product safety.",
+  "keywords": [
+    "marketplace seller",
+    "amazon seller",
+    "ebay seller",
+    "etsy seller",
+    "seller rights",
+    "account suspension",
+    "suspended seller account",
+    "p2b regulation",
+    "inform consumers act",
+    "seller verification",
+    "gpsr",
+    "product safety",
+    "dac7",
+    "1099-k"
+  ],
+  "cardText": "Suspensions, seller verification, IP complaints, product safety and platform rules for sellers.",
+  "eyebrow": "For online sellers",
+  "h1": "Selling on online marketplaces: your rights and duties",
+  "intro": "Marketplaces make it easy to reach customers, but your account is governed by the platform’s terms, and you’re still a trader under consumer law. Here’s what the law adds on both sides.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1770013413878-2530e2c3d82b",
+    "alt": "Woman checking a parcel with her phone next to a laptop and boxes",
+    "credit": "Rifki Kurniawan",
+    "creditUrl": "https://unsplash.com/@kurniawann"
+  },
+  "searchPlaceholder": "Search seller and business guides…",
+  "sections": [
+    {
+      "h2": "Your contract is the platform’s terms",
+      "html": "<p>Your relationship with a marketplace is set by its seller agreement and policies, which it can usually update. Read the sections on fees, payment holds and reserves, performance targets, prohibited products, IP complaints, suspension and dispute resolution. US platform terms often include arbitration clauses that limit going to court.</p>"
+    },
+    {
+      "h2": "Suspensions and delistings: EU and UK protections",
+      "html": "<ul><li>The EU’s <strong>Platform-to-Business (P2B) Regulation</strong> requires platforms to give business users a statement of reasons when they restrict or suspend them, normally give 30 days’ notice before terminating the whole service, run an internal complaint-handling system and name mediators. The UK kept equivalent rules after Brexit.</li>\n<li>The EU’s <strong>Digital Services Act</strong> adds a right to a statement of reasons for restrictions, a free internal complaint system, and access to certified out-of-court dispute settlement bodies.</li>\n<li>In the US there’s no general equivalent, so appeals depend on the platform’s own process.</li></ul><p>If you’re suspended: read the notice carefully, answer the specific issue with evidence, show what you’ve changed, and keep records of every exchange.</p>"
+    },
+    {
+      "h2": "Seller verification and tax reporting",
+      "html": "<ul><li><strong>US:</strong> under the <strong>INFORM Consumers Act</strong> (in force since June 2023), marketplaces must collect and verify bank, tax and contact information from “high-volume” third-party sellers: those with 200 or more sales and $5,000 or more in revenue in a 12-month period. Sellers with $20,000 or more in annual sales must also have certain contact details disclosed to buyers.</li>\n<li><strong>EU:</strong> the Digital Services Act requires marketplaces to collect and check information about traders before they can sell (“know your business customer”).</li>\n<li><strong>Tax:</strong> platforms report seller income to tax authorities: Form 1099-K in the US, under the DAC7 rules in the EU and under equivalent rules in the UK. Check current thresholds with your tax authority.</li></ul>"
+    },
+    {
+      "h2": "You’re a trader, so consumer law applies",
+      "html": "<ul><li>If you sell as a business, your buyers have full <a href=\"/consumer-rights/\">consumer rights</a>, including <a href=\"/refunds-and-returns/\">cancellation and refunds</a>, whatever the platform’s own return settings say.</li>\n<li>EU marketplaces must show buyers whether a seller is a trader. Presenting a business as a private seller is a banned practice.</li>\n<li><strong>Product safety:</strong> the EU’s General Product Safety Regulation, applying since 13 December 2024, requires most products sold to EU consumers to have a responsible economic operator in the EU, and online listings must show manufacturer and safety information.</li></ul>"
+    },
+    {
+      "h2": "IP complaints against your listings",
+      "html": "<p>Platforms often remove listings first and ask questions later when they receive a trademark or copyright complaint. Don’t ignore it: check whether the claim is valid, and if not, use the platform’s appeal or counter-notice process with evidence such as invoices from authorised suppliers or proof of your own rights. Protect your own brand by registering a <a href=\"/trademarks/\">trademark</a> and enrolling in the platform’s brand programme.</p><p class=\"note\"><strong>General information, not legal advice.</strong> Rules vary by country, state and situation, and they change. Check the official sources below, and speak to a qualified lawyer or accountant before making decisions for your business.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can a marketplace keep my money after suspending me?",
+      "a": "Platforms’ terms usually allow them to hold funds for a period to cover refunds and chargebacks. In the EU and UK, P2B rules require them to explain restrictions and handle complaints. If funds are withheld for longer than the terms allow, take legal advice."
+    },
+    {
+      "q": "Do I need to accept returns on a marketplace?",
+      "a": "If you sell as a business to UK or EU consumers, yes: the 14-day cancellation right and faulty goods rights apply by law, whatever your listing says."
+    },
+    {
+      "q": "Does the INFORM Consumers Act apply to small sellers?",
+      "a": "Only once you meet the high-volume thresholds (200 or more sales and $5,000 or more in revenue in a 12-month period). Below that, the platform’s normal verification rules apply."
+    }
+  ],
+  "related": [
+    "trademarks",
+    "online-business-legal-checklist",
+    "complaints"
+  ],
+  "sources": [
+    {
+      "title": "European Commission: platform-to-business trading practices",
+      "url": "https://digital-strategy.ec.europa.eu/en/policies/platform-business-trading"
+    },
+    {
+      "title": "FTC: Informing businesses about the INFORM Consumers Act",
+      "url": "https://www.ftc.gov/business-guidance/resources/informing-businesses-about-inform-consumers-act"
+    },
+    {
+      "title": "European Commission: the Digital Services Act",
+      "url": "https://digital-strategy.ec.europa.eu/en/policies/digital-services-act"
+    },
+    {
+      "title": "General Product Safety Regulation (EU) 2023/988 (EUR-Lex)",
+      "url": "https://eur-lex.europa.eu/eli/reg/2023/988/oj"
+    },
+    {
+      "title": "GOV.UK: reporting rules for digital platforms",
+      "url": "https://www.gov.uk/guidance/reporting-rules-for-digital-platforms"
+    }
+  ]
+}

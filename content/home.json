@@ -1,15 +1,326 @@
 {
+  "updated": "2026-10-14",
   "slug": "",
-  "title": "OnBusLaw: Plain-English guides to online business law and co",
-  "description": "Plain-English guides to online business law and consumer rights: trademarks, scams and fraud, refunds and returns, affiliate rules and customer service. Free to use, part of the Shmor.ai network.",
-  "eyebrow": "Part of the Shmor.ai network",
-  "h1": "OnBusLaw",
-  "intro": "Plain-English guides to online business law and consumer rights: trademarks, scams and fraud, refunds and returns, affiliate rules and customer service.",
-  "related": [],
+  "title": "OnBusLaw: Online Business Law & Consumer Rights Guides",
+  "description": "Plain-English guides to online consumer rights, refunds, chargebacks, scams, trademarks and affiliate rules for shoppers and businesses in the US, UK and EU.",
+  "eyebrow": "Consumer rights · Business law · Fraud · Brands",
+  "h1": "The law of buying and selling online, made clear.",
+  "h1Html": "The law of buying and selling online, <span class=\"hl\">made clear.</span>",
+  "intro": "Free, plain-English guides to your rights as an online shopper and your duties as an online business: refunds and returns, chargebacks, scams, trademarks, affiliate rules and customer complaints. For the US, UK and EU, with the official sources linked.",
+  "heroHtml": "<p class=\"juris\">Covering <span>US</span><span>UK</span><span>EU</span> rules, side by side</p>",
+  "chips": [
+    {
+      "label": "Refunds & returns",
+      "slug": "refunds-and-returns"
+    },
+    {
+      "label": "Card disputes",
+      "slug": "chargebacks"
+    },
+    {
+      "label": "Report a scam",
+      "slug": "online-scams"
+    },
+    {
+      "label": "Trademarks",
+      "slug": "trademarks"
+    },
+    {
+      "label": "Affiliate rules",
+      "slug": "affiliate-disclosure-rules"
+    }
+  ],
+  "image": {
+    "src": "https://images.unsplash.com/photo-1654588833369-5174f4640cd2",
+    "alt": "Wooden judge’s gavel resting on a laptop keyboard",
+    "credit": "Sasun Bughdaryan",
+    "creditUrl": "https://unsplash.com/@sasun1990"
+  },
+  "highlightsTitle": "Why people use OnBusLaw",
+  "highlights": [
+    {
+      "title": "Built from the law, not opinion",
+      "text": "Every guide is written from legislation, regulator guidance and official websites, which we link to, and dated so you can see when it was last checked."
+    },
+    {
+      "title": "US, UK and EU, side by side",
+      "text": "Online shopping crosses borders. We set out the rules in each place together, so you can see which ones apply to you."
+    },
+    {
+      "title": "Free and independent",
+      "text": "OnBusLaw is free to use. We’re not a law firm and don’t sell legal services; when you need advice, we point you to qualified, often free, help."
+    }
+  ],
   "sections": [
     {
-      "h2": "Why use OnBusLaw?",
-      "html": "<p>Plain-English guides to online business law and consumer rights: trademarks, scams and fraud, refunds and returns, affiliate rules and customer service.</p>"
+      "h2": "Online law in plain English",
+      "html": "<p>Buying, selling and creating online is governed by a patchwork of consumer law, payment rules, data protection, advertising codes and intellectual property law. OnBusLaw turns that patchwork into practical guides: what the rule is, who it protects, the deadlines that matter and where to go next.</p><p>Every page covers the <strong>United States</strong> (mainly federal law, with state differences flagged), the <strong>United Kingdom</strong> and the <strong>European Union</strong>, because the answer to “can I get my money back?” or “do I need to disclose this link?” often depends on where you, and the business, are.</p>"
+    },
+    {
+      "h2": "For online shoppers",
+      "html": "<ul><li><a href=\"/consumer-rights/\">Your consumer rights online</a>: faulty goods, late deliveries and what sellers must tell you.</li>\n<li><a href=\"/refunds-and-returns/\">Refunds and returns</a>: the 14-day UK and EU cancellation right and US return policies.</li>\n<li><a href=\"/chargebacks/\">Chargebacks and card disputes</a>: Section 75, the Fair Credit Billing Act and unauthorised payments.</li>\n<li><a href=\"/online-scams/\">Scams and fraud</a> and <a href=\"/identity-theft/\">identity theft</a>: warning signs, first steps and where to report.</li>\n<li><a href=\"/complaints/\">Complaints and customer service</a>: how to complain effectively and escalate.</li></ul>"
+    },
+    {
+      "h2": "For online businesses, sellers and creators",
+      "html": "<ul><li><a href=\"/online-business-legal-checklist/\">The legal checklist for an online business</a>: structure, tax, data and consumer law.</li>\n<li><a href=\"/website-terms-and-privacy/\">Terms, privacy policies and cookies</a>: the legal pages a website needs.</li>\n<li><a href=\"/trademarks/\">Trademarks</a> and <a href=\"/copyright-and-takedowns/\">copyright and takedowns</a>: protect your brand and content.</li>\n<li><a href=\"/affiliate-disclosure-rules/\">Affiliate and influencer disclosure rules</a>, including fake review bans.</li>\n<li><a href=\"/selling-on-marketplaces/\">Selling on marketplaces</a>: suspensions, seller verification and product safety.</li></ul>"
+    },
+    {
+      "h2": "How we write our guides",
+      "html": "<p>We start from primary sources such as legislation, regulations and regulator guidance, and link to them at the end of each guide. Pages show the date they were last updated, and time-sensitive changes are covered on our <a href=\"/blog/\">blog</a>.</p><p>Our guides are general information, not legal advice. They can’t take account of your circumstances, and they don’t replace a qualified lawyer (an attorney or solicitor) or a free advice service where you live.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is OnBusLaw a law firm?",
+      "a": "No. OnBusLaw is a free legal information website. We don’t give legal advice or represent anyone, and reading our guides doesn’t create a lawyer–client relationship."
+    },
+    {
+      "q": "Which countries do your guides cover?",
+      "a": "The United States (mainly federal law, with state differences flagged), the United Kingdom and the European Union. Where UK nations differ, for example Scotland, we say so. EU countries can add their own national rules on top of EU law."
+    },
+    {
+      "q": "How up to date is the information?",
+      "a": "Each guide shows when it was last updated and links to the official sources it relies on. Laws change, so check those sources before acting on anything important."
+    },
+    {
+      "q": "How does OnBusLaw make money?",
+      "a": "Some pages may include affiliate links, so a provider may pay us a commission if you sign up, at no extra cost to you. This never changes what our guides say. Read <a href=\"https://shmor.ai/affiliate-disclosure/\">how we make money</a>."
+    }
+  ],
+  "related": [],
+  "ctaTitle": "What legal question can we help with?",
+  "latestPosts": 3,
+  "latestTitle": "Latest legal updates",
+  "blocks": [
+    {
+      "type": "strip",
+      "position": "top",
+      "items": [
+        {
+          "icon": "scale",
+          "title": "Plain-English law",
+          "text": "no jargon"
+        },
+        {
+          "icon": "globe",
+          "title": "US, UK & EU",
+          "text": "side by side"
+        },
+        {
+          "icon": "file",
+          "title": "Official sources",
+          "text": "linked on every guide"
+        },
+        {
+          "icon": "check",
+          "title": "Free to use",
+          "text": "no sign-up"
+        }
+      ]
+    },
+    {
+      "type": "tiles",
+      "title": "What do you need help with?",
+      "intro": "Start with your problem. Each guide explains your rights, the deadlines that matter and where to go next.",
+      "more": {
+        "title": "Your consumer rights",
+        "slug": "consumer-rights"
+      },
+      "items": [
+        {
+          "slug": "refunds-and-returns",
+          "title": "Refunds & returns",
+          "badge": "Shoppers",
+          "text": "Cancel an order, return it and get your money back."
+        },
+        {
+          "slug": "online-scams",
+          "title": "Scams & fraud",
+          "badge": "Act fast"
+        },
+        {
+          "slug": "chargebacks",
+          "title": "Card disputes",
+          "badge": "Payments"
+        },
+        {
+          "slug": "trademarks",
+          "title": "Trademarks",
+          "badge": "Brands"
+        },
+        {
+          "slug": "affiliate-disclosure-rules",
+          "title": "Affiliate rules",
+          "badge": "Creators"
+        },
+        {
+          "slug": "complaints",
+          "title": "Complaints",
+          "badge": "Customer service"
+        },
+        {
+          "slug": "identity-theft",
+          "title": "Identity theft",
+          "badge": "Recovery"
+        },
+        {
+          "slug": "selling-on-marketplaces",
+          "title": "Marketplace sellers",
+          "badge": "Sellers"
+        },
+        {
+          "slug": "online-business-legal-checklist",
+          "title": "Online business",
+          "badge": "Start-ups"
+        }
+      ]
+    },
+    {
+      "type": "deals",
+      "title": "Key rules at a glance",
+      "intro": "Some of the most useful rules for buying and selling online. Each one links to a full guide with the conditions and exceptions.",
+      "more": {
+        "title": "All consumer rights",
+        "slug": "consumer-rights"
+      },
+      "items": [
+        {
+          "icon": "repeat",
+          "badge": "UK & EU",
+          "title": "14-day cancellation",
+          "text": "Most goods and services bought online from a business can be cancelled within 14 days without giving a reason. Some exceptions apply.",
+          "slug": "refunds-and-returns",
+          "cta": "Cancellation rights"
+        },
+        {
+          "icon": "wallet",
+          "badge": "UK",
+          "title": "Section 75 protection",
+          "text": "Paid for something costing over £100 and up to £30,000 with a credit card? The card provider can be equally liable if the trader breaches the contract.",
+          "slug": "chargebacks",
+          "cta": "How Section 75 works"
+        },
+        {
+          "icon": "clock",
+          "badge": "US",
+          "title": "60 days to dispute",
+          "text": "Under the Fair Credit Billing Act, write to your card issuer within 60 days of the statement that shows a billing error.",
+          "slug": "chargebacks",
+          "cta": "Disputing a charge"
+        },
+        {
+          "icon": "shield",
+          "badge": "UK & EU",
+          "title": "Faulty goods",
+          "text": "Goods must match their description and be of satisfactory quality. In the UK, you can reject faulty goods for a full refund within 30 days.",
+          "slug": "consumer-rights",
+          "cta": "Faulty goods rights"
+        },
+        {
+          "icon": "alert",
+          "badge": "UK",
+          "title": "Scam reimbursement",
+          "text": "Since 7 October 2024, UK payment firms must reimburse most victims of bank transfer (APP) scams, up to £85,000 per claim.",
+          "slug": "online-scams",
+          "cta": "Getting money back"
+        },
+        {
+          "icon": "file",
+          "badge": "EU",
+          "title": "Withdrawal button",
+          "text": "Since 19 June 2026, EU online traders must offer a clearly labelled “withdraw from contract” function during the cancellation period.",
+          "slug": "blog/eu-withdrawal-button",
+          "cta": "What changed"
+        },
+        {
+          "icon": "copyright",
+          "badge": "Brands",
+          "title": "® means registered",
+          "text": "Use ® only for a registered trademark. Claiming registration falsely is a criminal offence in the UK and can be misleading elsewhere.",
+          "slug": "trademarks",
+          "cta": "™ vs ®"
+        },
+        {
+          "icon": "users",
+          "badge": "Creators",
+          "title": "Label ads upfront",
+          "text": "Paid posts, gifts and affiliate links must be clearly disclosed, for example with “#ad”, under FTC, UK and EU rules.",
+          "slug": "affiliate-disclosure-rules",
+          "cta": "Disclosure rules"
+        }
+      ]
+    },
+    {
+      "type": "steps",
+      "title": "Sorting out a problem with an online purchase",
+      "items": [
+        {
+          "icon": "search",
+          "title": "Know your rights",
+          "text": "Find the rule that fits: cancellation, faulty goods, non-delivery or a card dispute. Note any deadlines."
+        },
+        {
+          "icon": "message",
+          "title": "Put it in writing",
+          "text": "Contact the seller, explain what went wrong, say what you want and give a reasonable deadline. Keep copies."
+        },
+        {
+          "icon": "scale",
+          "title": "Escalate if needed",
+          "text": "Use your card provider, an ADR scheme or ombudsman, a regulator or small claims court. See <a href=\"/complaints/\">how to escalate</a>."
+        }
+      ]
+    },
+    {
+      "type": "links",
+      "title": "Popular questions",
+      "items": [
+        {
+          "icon": "search",
+          "title": "How do I get a refund online?",
+          "slug": "refunds-and-returns"
+        },
+        {
+          "icon": "search",
+          "title": "How do chargebacks work?",
+          "slug": "chargebacks"
+        },
+        {
+          "icon": "search",
+          "title": "Where do I report a scam?",
+          "slug": "online-scams"
+        },
+        {
+          "icon": "search",
+          "title": "Is this website legit?",
+          "slug": "blog/fake-online-shops"
+        },
+        {
+          "icon": "search",
+          "title": "How do I cancel a subscription?",
+          "slug": "blog/cancel-subscriptions"
+        },
+        {
+          "icon": "search",
+          "title": "How to register a trademark",
+          "slug": "trademarks"
+        },
+        {
+          "icon": "search",
+          "title": "Do I have to disclose affiliate links?",
+          "slug": "affiliate-disclosure-rules"
+        },
+        {
+          "icon": "search",
+          "title": "What legal pages does my site need?",
+          "slug": "website-terms-and-privacy"
+        },
+        {
+          "icon": "search",
+          "title": "Someone copied my content",
+          "slug": "copyright-and-takedowns"
+        }
+      ]
     }
   ]
 }

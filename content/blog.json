@@ -1,0 +1,28 @@
+{
+  "updated": "2026-10-14",
+  "slug": "blog",
+  "type": "blog",
+  "nav": "Blog",
+  "navOrder": 7,
+  "title": "Online Law Blog: Consumer and Business Law Updates",
+  "description": "News and explainers on online consumer and business law in the US, UK and EU: new rules, scams to watch for and how-tos checked against official sources.",
+  "eyebrow": "Updates · Explainers · How-tos",
+  "h1": "Online law updates and explainers",
+  "intro": "New rules for online shopping and selling, scams to watch for and practical how-tos, explained clearly and checked against official sources.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1774898988393-5c752e4d55e9",
+    "alt": "Statue of justice, a gavel and an open law book on a table",
+    "credit": "Sasun Bughdaryan",
+    "creditUrl": "https://unsplash.com/@sasun1990"
+  },
+  "search": false,
+  "listTitle": "Latest posts",
+  "keywords": [
+    "online law blog",
+    "consumer law news",
+    "business law updates",
+    "legal news",
+    "new consumer rules"
+  ],
+  "cardText": "New rules, scam alerts and practical legal how-tos for online shoppers and businesses."
+}

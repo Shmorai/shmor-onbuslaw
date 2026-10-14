@@ -1,0 +1,93 @@
+{
+  "updated": "2026-10-14",
+  "slug": "website-terms-and-privacy",
+  "title": "Website Terms, Privacy Policy and Cookie Rules Explained",
+  "description": "What legal pages your website or online store needs: terms and conditions, privacy notice, cookie consent and business details under GDPR, UK and US rules.",
+  "keywords": [
+    "terms and conditions",
+    "privacy policy",
+    "privacy notice",
+    "cookie policy",
+    "cookie banner",
+    "cookie consent",
+    "gdpr",
+    "uk gdpr",
+    "ccpa",
+    "cpra",
+    "website legal pages",
+    "impressum",
+    "pecr",
+    "eprivacy",
+    "do not sell"
+  ],
+  "cardText": "The legal pages your site needs: terms, privacy notice, cookie consent and business details.",
+  "eyebrow": "For online businesses",
+  "h1": "Terms, privacy policy and cookies: what your website needs",
+  "intro": "A website that sells or collects any personal data needs a few legal pages, and a cookie banner that actually follows the rules. Here’s what’s required in the UK, EU and US.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1595666944516-bbb485958fb5",
+    "alt": "Black and white sign reading privacy please",
+    "credit": "Jason Dent",
+    "creditUrl": "https://unsplash.com/@jdent"
+  },
+  "searchPlaceholder": "Search website law guides…",
+  "sections": [
+    {
+      "h2": "Which pages you need",
+      "html": "<table><thead><tr><th>Page</th><th>When</th><th>Main rules</th></tr></thead><tbody>\n<tr><td><strong>Privacy notice</strong></td><td>Whenever you collect personal data, including via contact forms, analytics or orders</td><td>GDPR / UK GDPR; in the US, California’s CalOPPA and state privacy laws</td></tr>\n<tr><td><strong>Cookie notice and consent</strong></td><td>When you use non-essential cookies or similar tracking (analytics, ads, affiliate tracking)</td><td>UK PECR; EU ePrivacy Directive</td></tr>\n<tr><td><strong>Terms of sale</strong></td><td>When you sell to customers</td><td>Consumer law (UK Consumer Rights Act, EU Consumer Rights Directive, US state law)</td></tr>\n<tr><td><strong>Business details</strong></td><td>Always in the UK and EU</td><td>UK Electronic Commerce Regulations 2002 and company law; EU E-Commerce Directive (and Germany’s “Impressum”)</td></tr>\n<tr><td><strong>Website terms of use</strong></td><td>Recommended for most sites</td><td>Contract law</td></tr>\n</tbody></table>"
+    },
+    {
+      "h2": "What a privacy notice must cover",
+      "html": "<p>Under the GDPR and UK GDPR, tell people, in clear and plain language:</p><ul><li>who you are and how to contact you (and your data protection officer, if you have one);</li>\n<li>what personal data you collect, why, and your lawful basis for each purpose;</li>\n<li>who you share it with, and whether it’s transferred abroad;</li>\n<li>how long you keep it;</li>\n<li>people’s rights, including access, correction, erasure and objection, and the right to complain to the regulator.</li></ul><p>In the US, California’s CalOPPA requires commercial websites that collect personally identifiable information from California residents to post a privacy policy. Businesses covered by the California Consumer Privacy Act must also offer rights such as opting out of the “sale” or “sharing” of personal information, and honour Global Privacy Control signals.</p>"
+    },
+    {
+      "h2": "Cookie consent done right",
+      "html": "<ul><li>Strictly necessary cookies (such as a shopping basket or security) don’t need consent.</li>\n<li>Other cookies, including most analytics, advertising and affiliate tracking, need consent <strong>before</strong> they are set.</li>\n<li>Rejecting should be as easy as accepting, with no pre-ticked boxes and no “cookie walls” that leave no real choice.</li>\n<li>Let people change their mind at any time.</li></ul><p>Regulators such as the UK’s ICO and France’s CNIL actively enforce these rules. In the UK, the Data (Use and Access) Act 2025 creates new exemptions from consent for some low-risk cookies, such as certain analytics, as its provisions come into force, so follow the ICO’s latest guidance.</p>"
+    },
+    {
+      "h2": "Terms and conditions",
+      "html": "<ul><li>Write terms that fit your business and the law where your customers are. Copying another company’s terms can infringe their copyright and may not match your business or the right law.</li>\n<li>In the UK and EU, unfair terms in consumer contracts aren’t binding on consumers, and terms must be transparent.</li>\n<li>Cover ordering, prices, delivery, cancellation and returns, faulty goods, liability and how to complain.</li></ul><p class=\"note\"><strong>General information, not legal advice.</strong> Rules vary by country, state and situation, and they change. Check the official sources below, and speak to a qualified lawyer or accountant before making decisions for your business.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can I use a privacy policy generator?",
+      "a": "Generators can be a useful starting point, but the notice must accurately describe what your site actually does, including every tool and plugin that collects data. Review it whenever you add new tools."
+    },
+    {
+      "q": "Do I need a cookie banner if I only use analytics?",
+      "a": "In the EU, generally yes, unless the analytics tool is set up to qualify for a national exemption. In the UK, some analytics may become exempt under the Data (Use and Access) Act 2025, subject to conditions; check current ICO guidance."
+    },
+    {
+      "q": "Does a small US website need a privacy policy?",
+      "a": "If it collects personal information from California residents, CalOPPA requires one, and most app stores, ad networks and payment providers require one too. In practice, almost every commercial site should have one."
+    }
+  ],
+  "related": [
+    "online-business-legal-checklist",
+    "affiliate-disclosure-rules",
+    "identity-theft"
+  ],
+  "sources": [
+    {
+      "title": "ICO: guidance for organisations",
+      "url": "https://ico.org.uk/for-organisations/"
+    },
+    {
+      "title": "General Data Protection Regulation (EUR-Lex)",
+      "url": "https://eur-lex.europa.eu/eli/reg/2016/679/oj"
+    },
+    {
+      "title": "European Data Protection Board",
+      "url": "https://www.edpb.europa.eu/"
+    },
+    {
+      "title": "California Attorney General: CCPA",
+      "url": "https://oag.ca.gov/privacy/ccpa"
+    },
+    {
+      "title": "Electronic Commerce (EC Directive) Regulations 2002 (legislation.gov.uk)",
+      "url": "https://www.legislation.gov.uk/uksi/2002/2013/contents"
+    }
+  ]
+}

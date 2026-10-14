@@ -1,0 +1,74 @@
+{
+  "updated": "2026-10-14",
+  "date": "2026-10-14",
+  "slug": "blog/eu-withdrawal-button",
+  "type": "post",
+  "title": "The EU Withdrawal Button: New Online Cancellation Rule",
+  "description": "Since 19 June 2026, EU online traders must offer a “withdraw from contract” button. What the rule requires, who it covers and what it means for you.",
+  "h1": "The EU “withdraw from contract” button: what changed in June 2026",
+  "eyebrow": "New rules · EU",
+  "intro": "Since 19 June 2026, businesses that sell online to EU consumers must give them a clearly labelled button to cancel a contract within the withdrawal period. Here’s what it means.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1688561808434-886a6dd97b8c",
+    "alt": "Person typing on a laptop at a table",
+    "credit": "Shoper",
+    "creditUrl": "https://unsplash.com/@shoperpl"
+  },
+  "keywords": [
+    "withdrawal button",
+    "eu withdrawal button",
+    "withdraw from contract here",
+    "article 11a",
+    "directive 2023/2673",
+    "cancel online order eu",
+    "right of withdrawal",
+    "cancellation button"
+  ],
+  "cardText": "What the new EU withdrawal function requires, who it covers and how it helps shoppers.",
+  "sections": [
+    {
+      "h2": "What changed",
+      "html": "<p>EU consumers already had a 14-day right to withdraw from most online purchases. Directive (EU) 2023/2673 added a new Article 11a to the Consumer Rights Directive, which requires traders to make withdrawing as easy as buying. The rule has applied since <strong>19 June 2026</strong>, through each EU country’s national law.</p><p>It doesn’t create a new right to cancel, or change the 14-day period or its exceptions. It changes <em>how</em> you can use the right.</p>"
+    },
+    {
+      "h2": "How the button must work",
+      "html": "<ul><li>The withdrawal function must be labelled “withdraw from contract here” or with an equally clear wording.</li>\n<li>It must be prominently displayed and easily accessible for the whole withdrawal period, on the same online interface you used to buy.</li>\n<li>You enter or confirm basic details (such as your name, the contract and how you’ll be contacted), then confirm with a second function labelled “confirm withdrawal” or similar.</li>\n<li>The trader must then send you an acknowledgement, including the date and time of your withdrawal, on a durable medium such as email, without undue delay.</li></ul>"
+    },
+    {
+      "h2": "Who it applies to",
+      "html": "<p>It applies to distance contracts concluded through an online interface, such as a website or app, with consumers in the EU, where a right of withdrawal exists. That includes businesses based outside the EU, such as UK or US sellers, that direct their sales to EU consumers. It doesn’t apply to business-to-business sales or to purchases that have no withdrawal right, such as personalised goods.</p>"
+    },
+    {
+      "h2": "What it means for shoppers",
+      "html": "<p>If you change your mind within 14 days, look for the withdrawal button on the seller’s site or app, often in the footer or your account. Keep the acknowledgement email. You still need to return goods within 14 days of withdrawing, and the trader must refund you within 14 days of getting them back or proof that you sent them. See <a href=\"/refunds-and-returns/\">refunds and returns</a>.</p>"
+    },
+    {
+      "h2": "What it means for sellers",
+      "html": "<ol><li>Add a compliant two-step withdrawal function to every online sales channel that sells to EU consumers.</li>\n<li>Make sure it works without forcing a login, where buying didn’t require one, and that it sends an automatic timestamped acknowledgement.</li>\n<li>Update your terms and pre-contract information.</li>\n<li>Check national implementing laws in your key markets, as details and penalties can vary.</li></ol><p>The UK isn’t covered by this EU rule. UK cancellation rights stay under the Consumer Contracts Regulations 2013, and the UK’s separate subscription contract reforms are not yet in force (see <a href=\"/blog/cancel-subscriptions/\">cancelling subscriptions</a>).</p><p class=\"note\"><strong>General information, not legal advice.</strong> This post reflects the position on the date shown. Check the official sources below for the latest rules.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Does the button give me longer to cancel?",
+      "a": "No. It makes cancelling easier, but the 14-day withdrawal period and its exceptions are unchanged."
+    },
+    {
+      "q": "Does it apply to subscriptions?",
+      "a": "It applies to online contracts with a right of withdrawal, which includes new subscriptions during their withdrawal period. Ending a subscription later is governed by its terms and national law."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Directive (EU) 2023/2673 (EUR-Lex)",
+      "url": "https://eur-lex.europa.eu/eli/dir/2023/2673/oj"
+    },
+    {
+      "title": "Consumer Rights Directive 2011/83/EU (EUR-Lex)",
+      "url": "https://eur-lex.europa.eu/eli/dir/2011/83/oj"
+    },
+    {
+      "title": "Your Europe: guarantees and returns",
+      "url": "https://europa.eu/youreurope/citizens/consumers/shopping/guarantees-returns/index_en.htm"
+    }
+  ]
+}

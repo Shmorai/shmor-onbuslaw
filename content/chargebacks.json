@@ -1,0 +1,98 @@
+{
+  "updated": "2026-10-14",
+  "slug": "chargebacks",
+  "title": "Chargebacks, Section 75 and Card Disputes Explained",
+  "description": "How to get money back through your card provider: chargebacks, UK Section 75, the US Fair Credit Billing Act and unauthorised payment rules, with deadlines.",
+  "keywords": [
+    "chargeback",
+    "chargebacks",
+    "section 75",
+    "dispute a charge",
+    "credit card dispute",
+    "fair credit billing act",
+    "billing error",
+    "unauthorised payment",
+    "unauthorized transaction",
+    "debit card refund",
+    "card refund",
+    "goods not received"
+  ],
+  "cardText": "Chargebacks, UK Section 75, the US Fair Credit Billing Act and unauthorised payments, with the deadlines.",
+  "eyebrow": "Payments & refunds",
+  "h1": "Getting your money back through your card provider",
+  "intro": "If a seller won’t refund you, your card provider may be able to. The rules differ between credit and debit cards and between the UK, the EU and the US, and deadlines matter.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1609429019995-8c40f49535a5",
+    "alt": "Payment card resting on a dark laptop keyboard",
+    "credit": "CardMapr.nl",
+    "creditUrl": "https://unsplash.com/@cardmapr"
+  },
+  "searchPlaceholder": "Search payment dispute guides…",
+  "sections": [
+    {
+      "h2": "Three different protections",
+      "html": "<ul><li><strong>Chargeback:</strong> a process set by card schemes (such as Visa and Mastercard) that lets your card provider reverse a transaction, for example when goods don’t arrive. It covers debit and credit cards, but it’s a scheme rule rather than a legal right, and it has time limits.</li>\n<li><strong>Legal liability:</strong> in the UK, Section 75 of the Consumer Credit Act makes credit card providers equally liable with the trader in certain cases. In the US, the Fair Credit Billing Act gives you legal dispute rights on credit cards.</li>\n<li><strong>Unauthorised payments:</strong> if you didn’t authorise a payment at all, payment services law protects you, with limited liability.</li></ul>"
+    },
+    {
+      "h2": "UK: Section 75 and chargebacks",
+      "html": "<p>Under <strong>Section 75 of the Consumer Credit Act 1974</strong>, if you pay by credit card for a single item or service with a cash price over <strong>£100 and up to £30,000</strong>, the card provider is jointly liable with the trader for breach of contract or misrepresentation. It applies even if you only paid part, such as a deposit, on the card. Paying through an intermediary, such as some payment wallets, can break the link and stop Section 75 applying.</p><p>For debit cards, or purchases outside those limits, ask your bank for a <strong>chargeback</strong>. Card scheme time limits apply, often around 120 days from the transaction or expected delivery date, so act quickly. If your bank or card provider rejects a valid claim, you can complain to the <strong>Financial Ombudsman Service</strong>.</p>"
+    },
+    {
+      "h2": "US: the Fair Credit Billing Act and debit cards",
+      "html": "<p>The <strong>Fair Credit Billing Act</strong> covers credit card billing errors, including charges for goods or services you didn’t accept or that weren’t delivered as agreed. Send a written dispute to the card issuer’s billing error address so it arrives within <strong>60 days</strong> after the first statement showing the charge was sent. The issuer must acknowledge it within 30 days and resolve it within two billing cycles (and no more than 90 days). You can withhold the disputed amount while it investigates.</p><p>For problems with the <em>quality</em> of goods or services bought by credit card, the Act also lets you raise claims against the issuer in some cases, after trying to resolve it with the seller first.</p><p><strong>Debit cards</strong> fall under the Electronic Fund Transfer Act. For unauthorised transactions, your liability is limited to $50 if you report within two business days of learning of a lost or stolen card, rising to up to $500 after that, and potentially more if you don’t report within 60 days of your statement. Many card networks offer extra voluntary protection on top.</p>"
+    },
+    {
+      "h2": "EU: chargebacks and unauthorised payments",
+      "html": "<p>There’s no EU-wide equivalent of Section 75, although a few countries have similar national rules. For disputes with a seller, card scheme chargebacks are the main route.</p><p>For payments you <strong>didn’t authorise</strong>, the Payment Services Directive (PSD2) requires your bank to refund you promptly, normally by the end of the next business day, unless it suspects fraud on your part. Tell your bank without undue delay, and no later than 13 months after the payment. Your liability is generally capped at €50, unless you acted fraudulently or with gross negligence.</p>"
+    },
+    {
+      "h2": "How to raise a dispute",
+      "html": "<ol><li>Contact the seller first and keep a record. Card providers usually expect you to have tried.</li>\n<li>Gather evidence: order confirmation, product description, photos, messages and delivery tracking.</li>\n<li>Contact your card provider in writing, say which protection you’re using (chargeback, Section 75 or a billing error) and set out the facts.</li>\n<li>Keep track of the deadlines and respond to any requests quickly.</li>\n<li>If you’re refused, ask why and escalate through the provider’s complaints process, then the relevant ombudsman or regulator.</li></ol><p>Only dispute genuine problems. Disputing charges for goods you received and kept as described can lead to the seller pursuing you and your account being closed.</p><p class=\"note\"><strong>General information, not legal advice.</strong> Rules vary by country, state and situation, and they change. Check the official sources below, and speak to a qualified lawyer or a free advice service if a lot is at stake.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can I use Section 75 if I paid with PayPal?",
+      "a": "Usually not, because the payment intermediary breaks the direct link between the card provider and the seller. You may still be able to use the intermediary’s own buyer protection or ask your card provider about a chargeback."
+    },
+    {
+      "q": "What’s the deadline for a chargeback?",
+      "a": "It depends on the card scheme and the reason, but it’s often around 120 days from the transaction or expected delivery date. Contact your card provider as soon as you know there’s a problem."
+    },
+    {
+      "q": "Does a chargeback work for bank transfers?",
+      "a": "No. Chargebacks only apply to card payments. For bank transfers to a scammer, see the UK’s <a href=\"/online-scams/\">scam reimbursement rules</a>, and contact your bank immediately in any country."
+    },
+    {
+      "q": "Is Section 75 better than a chargeback?",
+      "a": "Where it applies, Section 75 is a legal right with longer time limits, and it can cover losses beyond the amount you paid. Chargeback covers more types of payment but is a voluntary scheme rule."
+    }
+  ],
+  "related": [
+    "refunds-and-returns",
+    "online-scams",
+    "complaints"
+  ],
+  "sources": [
+    {
+      "title": "Consumer Credit Act 1974, section 75 (legislation.gov.uk)",
+      "url": "https://www.legislation.gov.uk/ukpga/1974/39/section/75"
+    },
+    {
+      "title": "Financial Ombudsman Service",
+      "url": "https://www.financial-ombudsman.org.uk/"
+    },
+    {
+      "title": "FTC: using credit cards and disputing charges",
+      "url": "https://consumer.ftc.gov/articles/using-credit-cards-and-disputing-charges"
+    },
+    {
+      "title": "Consumer Financial Protection Bureau: Ask CFPB",
+      "url": "https://www.consumerfinance.gov/ask-cfpb/"
+    },
+    {
+      "title": "Your Europe: payments and transfers",
+      "url": "https://europa.eu/youreurope/citizens/consumers/financial-products-and-services/payments-transfers-cheques/index_en.htm"
+    }
+  ]
+}

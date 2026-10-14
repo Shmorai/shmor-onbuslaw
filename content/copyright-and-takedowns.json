@@ -1,0 +1,91 @@
+{
+  "updated": "2026-10-14",
+  "slug": "copyright-and-takedowns",
+  "title": "Copyright Online: DMCA, Takedowns and Using Content",
+  "description": "How copyright works online: who owns content, using images and music legally, DMCA and EU or UK takedown notices, and what to do if you’re copied.",
+  "keywords": [
+    "copyright",
+    "dmca",
+    "dmca takedown",
+    "takedown notice",
+    "counter notice",
+    "fair use",
+    "fair dealing",
+    "copyright infringement",
+    "stolen content",
+    "image copyright",
+    "creative commons",
+    "content removal",
+    "digital services act"
+  ],
+  "cardText": "Using images and content legally, DMCA and EU takedowns, counter-notices and stolen content.",
+  "eyebrow": "Brands & intellectual property",
+  "h1": "Copyright online: using content and removing stolen content",
+  "intro": "Almost everything you see online, from photos and videos to articles and code, is protected by copyright. Here’s how to use content legally, and how to get your own content taken down when someone copies it.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1760008486599-e62d30e2ca95",
+    "alt": "Creative desk objects including a keyboard, lightbulb and pens",
+    "credit": "Creatvise",
+    "creditUrl": "https://unsplash.com/@creatvise"
+  },
+  "searchPlaceholder": "Search copyright and IP guides…",
+  "sections": [
+    {
+      "h2": "How copyright works",
+      "html": "<ul><li>Copyright arises <strong>automatically</strong> when an original work is created and fixed (written down, saved or recorded). You don’t need to register it in the UK or EU.</li>\n<li>In the US, registration with the Copyright Office isn’t needed for protection, but it’s generally required before suing over a US work, and registering early unlocks statutory damages and legal fees.</li>\n<li>Protection usually lasts for the creator’s life plus 70 years.</li>\n<li>Employees’ work usually belongs to the employer. Work by freelancers and agencies usually belongs to the creator unless the contract assigns it, so get an assignment in writing.</li></ul>"
+    },
+    {
+      "h2": "Using other people’s content",
+      "html": "<p>“I found it on Google” isn’t a licence. To use someone else’s work you generally need permission or a licence, such as a stock licence or a Creative Commons licence (follow its conditions, such as attribution), unless an exception applies:</p><ul><li><strong>US fair use</strong> weighs four factors: the purpose of the use, the nature of the work, how much is used, and the effect on the market for the original. It’s decided case by case.</li>\n<li><strong>UK and EU exceptions</strong> are narrower and listed in law, such as quotation, criticism and review, news reporting (UK fair dealing) and parody.</li></ul><p>Music in videos, product photos copied from other shops and images embedded in templates are common sources of claims. For AI-generated material, the US Copyright Office requires human authorship for registration, and ownership rules differ between countries.</p>"
+    },
+    {
+      "h2": "Getting copied content removed",
+      "html": "<p><strong>US: DMCA notice and takedown.</strong> Under section 512 of the Digital Millennium Copyright Act, hosts and platforms that remove infringing material promptly when notified keep their “safe harbour”. A valid notice, sent to the service’s designated agent, includes: your signature; identification of the work; the location of the infringing material; your contact details; a statement that you believe in good faith the use isn’t authorised; and a statement, under penalty of perjury, that the notice is accurate and you’re authorised to act.</p><p><strong>EU: Digital Services Act.</strong> Online platforms must provide easy-to-use mechanisms for reporting illegal content, including copyright infringement, act on notices diligently and give reasons for their decisions.</p><p><strong>UK:</strong> hosts that act quickly on notice of unlawful material are protected from liability, so most platforms offer copyright reporting forms. Most large platforms use similar processes worldwide.</p>"
+    },
+    {
+      "h2": "If your content was taken down",
+      "html": "<p>If you believe a takedown was a mistake or your use was lawful, you can send a <strong>counter-notice</strong>. Under the DMCA, the platform can restore the material 10 to 14 business days after receiving it, unless the complainant tells it they’ve started a lawsuit. Knowingly misrepresenting infringement in a notice or counter-notice can make you liable for damages. EU platforms must also offer an internal complaint system for content decisions.</p><p class=\"note\"><strong>General information, not legal advice.</strong> Rules vary by country, state and situation, and they change. Check the official sources below, and speak to a qualified lawyer or a free advice service if a lot is at stake.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can I use an image if I credit the photographer?",
+      "a": "Not unless the licence allows it. Credit alone isn’t permission. Use images you’ve licensed, created yourself, or that come with a licence permitting your use."
+    },
+    {
+      "q": "Do I need to put a © notice on my website?",
+      "a": "It isn’t required for protection in the US, UK or EU, but a notice reminds people the content is protected and identifies the owner."
+    },
+    {
+      "q": "Someone copied my product photos. What can I do?",
+      "a": "Report them to the marketplace or host using its copyright tool or a DMCA notice. You can also contact the seller directly. If the copying is serious or repeated, a lawyer can advise on claims."
+    }
+  ],
+  "related": [
+    "trademarks",
+    "selling-on-marketplaces",
+    "affiliate-disclosure-rules"
+  ],
+  "sources": [
+    {
+      "title": "U.S. Copyright Office: the DMCA",
+      "url": "https://www.copyright.gov/dmca/"
+    },
+    {
+      "title": "U.S. Copyright Office: fair use",
+      "url": "https://www.copyright.gov/fair-use/"
+    },
+    {
+      "title": "GOV.UK: how copyright protects your work",
+      "url": "https://www.gov.uk/copyright"
+    },
+    {
+      "title": "European Commission: the Digital Services Act",
+      "url": "https://digital-strategy.ec.europa.eu/en/policies/digital-services-act"
+    },
+    {
+      "title": "Creative Commons licences",
+      "url": "https://creativecommons.org/licenses/"
+    }
+  ]
+}

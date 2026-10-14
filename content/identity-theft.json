@@ -1,0 +1,97 @@
+{
+  "updated": "2026-10-14",
+  "slug": "identity-theft",
+  "title": "Identity Theft Online: What to Do and How to Recover",
+  "description": "Steps to take if your identity has been stolen online: secure accounts, freeze or check your credit, report it in the US, UK or EU and prevent repeat fraud.",
+  "keywords": [
+    "identity theft",
+    "identity fraud",
+    "stolen identity",
+    "credit freeze",
+    "fraud alert",
+    "data breach",
+    "hacked account",
+    "account takeover",
+    "identitytheft.gov",
+    "cifas",
+    "credit report"
+  ],
+  "cardText": "What to do in the first 24 hours, credit freezes and fraud alerts, and where to report.",
+  "eyebrow": "Fraud & scams",
+  "h1": "Identity theft: what to do if your details are stolen",
+  "intro": "If someone has used your personal details to open accounts, take out credit or get into your accounts, quick action limits the damage. Here’s a step-by-step plan for the US, UK and EU.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1633265486064-086b219458ec",
+    "alt": "Golden padlock resting on a computer keyboard",
+    "credit": "Towfiqu barbhuiya",
+    "creditUrl": "https://unsplash.com/@towfiqu999999"
+  },
+  "searchPlaceholder": "Search fraud and identity guides…",
+  "sections": [
+    {
+      "h2": "Signs your identity has been stolen",
+      "html": "<ul><li>Payments, accounts or credit searches you don’t recognise.</li>\n<li>Letters or emails about credit, deliveries or debts that aren’t yours.</li>\n<li>Password reset emails you didn’t request, or being locked out of accounts.</li>\n<li>Your post stopping or being redirected.</li>\n<li>A company telling you your data was involved in a breach.</li></ul>"
+    },
+    {
+      "h2": "The first 24 hours",
+      "html": "<ol><li><strong>Call your bank and card providers</strong> about any suspicious activity and ask them to block cards if needed.</li>\n<li><strong>Secure your email first</strong>, as it unlocks everything else: change the password, turn on two-step verification and remove unknown devices and forwarding rules.</li>\n<li><strong>Change passwords</strong> on other important accounts, using a different password for each (a password manager helps).</li>\n<li><strong>Check your credit reports</strong> for accounts you didn’t open.</li>\n<li><strong>Report it</strong> and keep a log of who you contacted and when.</li></ol>"
+    },
+    {
+      "h2": "In the US",
+      "html": "<ul><li>Report at <strong>IdentityTheft.gov</strong> (run by the FTC), which creates an identity theft report and a personal recovery plan.</li>\n<li><strong>Freeze your credit</strong> for free with each of the three nationwide credit bureaus: Equifax, Experian and TransUnion. A freeze stops new creditors seeing your report until you lift it.</li>\n<li>Or place a <strong>fraud alert</strong>: contact one bureau and it must tell the other two.</li>\n<li>Check your credit reports free at AnnualCreditReport.com.</li></ul>"
+    },
+    {
+      "h2": "In the UK",
+      "html": "<ul><li>Report identity fraud to <strong>Report Fraud</strong> (England, Wales and Northern Ireland) or Police Scotland on 101.</li>\n<li>Check your credit reports with the three main credit reference agencies: Experian, Equifax and TransUnion. You have a legal right to see your data free of charge.</li>\n<li>Consider <strong>Cifas Protective Registration</strong>, a paid service that flags your details so organisations make extra checks before opening accounts.</li>\n<li>If your post may have been redirected, contact Royal Mail.</li></ul>"
+    },
+    {
+      "h2": "In the EU",
+      "html": "<ul><li>Report to your national police; you may need a police report to dispute fraudulent accounts.</li>\n<li>Ask banks and lenders for details of accounts opened in your name, and check your record with your country’s credit bureau or central credit register where one exists.</li>\n<li>Under the GDPR you can ask organisations what personal data they hold about you, and ask them to correct it.</li></ul>"
+    },
+    {
+      "h2": "After a data breach",
+      "html": "<p>Under the GDPR and UK GDPR, organisations must usually report a personal data breach to the regulator within 72 hours, and tell affected people without undue delay where there’s a high risk to them. In the US, every state has its own breach notification law.</p><p>If you’re told your data was exposed, change the affected password and any reused ones, watch for targeted phishing that mentions the breach, and consider a credit freeze or alert. You can complain to the data protection authority (the ICO in the UK) if an organisation mishandled your data.</p><p class=\"note\"><strong>General information, not legal advice.</strong> Rules vary by country, state and situation, and they change. Check the official sources below, and speak to a qualified lawyer or a free advice service if a lot is at stake.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Does a credit freeze affect my credit score?",
+      "a": "No. In the US, a freeze stops new lenders seeing your report but doesn’t change your score, and you can lift it temporarily when you apply for credit."
+    },
+    {
+      "q": "Am I responsible for debts a fraudster ran up in my name?",
+      "a": "Generally not, if you report it and show it was fraud. Report to the police or IdentityTheft.gov and dispute the accounts with the lender and credit bureaus in writing."
+    },
+    {
+      "q": "How did they get my details?",
+      "a": "Common routes are phishing, data breaches, reused passwords, malware and stolen post. Securing your email and using unique passwords with two-step verification blocks many of them."
+    }
+  ],
+  "related": [
+    "online-scams",
+    "chargebacks",
+    "website-terms-and-privacy"
+  ],
+  "sources": [
+    {
+      "title": "IdentityTheft.gov (FTC)",
+      "url": "https://www.identitytheft.gov/"
+    },
+    {
+      "title": "FTC: credit freezes and fraud alerts",
+      "url": "https://consumer.ftc.gov/articles/what-know-about-credit-freezes-and-fraud-alerts"
+    },
+    {
+      "title": "AnnualCreditReport.com",
+      "url": "https://www.annualcreditreport.com/"
+    },
+    {
+      "title": "ICO: your data protection rights",
+      "url": "https://ico.org.uk/for-the-public/"
+    },
+    {
+      "title": "Cifas: Protective Registration",
+      "url": "https://www.cifas.org.uk/pr"
+    }
+  ]
+}

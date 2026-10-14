@@ -1,0 +1,71 @@
+{
+  "updated": "2026-10-14",
+  "date": "2026-10-14",
+  "slug": "blog/fake-online-shops",
+  "type": "post",
+  "title": "Is This Website Legit? How to Spot a Fake Online Shop",
+  "description": "Checks to run before buying from an unfamiliar website: business details, reviews, payment options, domain age and prices, and what to do if caught out.",
+  "h1": "Is this website legit? How to spot a fake online shop",
+  "eyebrow": "How-to · Shopping safely",
+  "intro": "Fake shops copy real brands, advertise on social media and disappear with your money. A few minutes of checking before you pay can save a lot of trouble.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1758272423130-5bbccae36b11",
+    "alt": "Woman using a laptop and a credit card on a bed",
+    "credit": "Vitaly Gariev",
+    "creditUrl": "https://unsplash.com/@silverkblack"
+  },
+  "keywords": [
+    "is this website legit",
+    "fake website",
+    "fake online shop",
+    "scam website",
+    "check a website",
+    "website checker",
+    "is this site a scam",
+    "online shopping safety",
+    "fake store"
+  ],
+  "cardText": "Quick checks before you buy from an unfamiliar site, and what to do if it goes wrong.",
+  "sections": [
+    {
+      "h2": "Checks before you buy",
+      "html": "<ol><li><strong>Who runs it?</strong> Look for a company name, physical address and registration number (UK and EU sellers must show these). Check the company exists on official registers such as Companies House.</li>\n<li><strong>Reviews elsewhere:</strong> search the shop’s name plus “scam” or “reviews” on independent sites, not just testimonials on the shop itself.</li>\n<li><strong>The web address:</strong> look for misspellings of real brands and unusual domain endings. A padlock symbol only means the connection is encrypted, not that the shop is genuine.</li>\n<li><strong>Domain age:</strong> very new websites selling big-brand goods at deep discounts are a classic warning sign. Free website-checking tools can show when a domain was registered.</li>\n<li><strong>Prices:</strong> discounts far below every other retailer are a red flag.</li>\n<li><strong>Payment options:</strong> be wary if the only options are bank transfer, cryptocurrency or gift cards, or if card payment “fails” and you’re asked to pay another way.</li>\n<li><strong>Contact details:</strong> a contact form only, or a free email address, gives you little to go on.</li>\n<li><strong>Policies:</strong> genuine shops have clear delivery, returns and privacy policies. Copied text or policies naming another company are warning signs.</li>\n<li><strong>Social media ads:</strong> check the shop independently instead of trusting an ad or a “closing down sale”.</li></ol>"
+    },
+    {
+      "h2": "Pay in a way that protects you",
+      "html": "<p>Paying by credit card gives the strongest protection: <a href=\"/chargebacks/\">Section 75</a> in the UK for items over £100, and Fair Credit Billing Act disputes in the US. Debit cards and many payment services offer chargeback or buyer protection. Bank transfers to strangers are much harder to recover.</p>"
+    },
+    {
+      "h2": "If you’ve already paid",
+      "html": "<ul><li>Contact your card provider or bank straight away and ask about a chargeback.</li>\n<li>Keep screenshots of the website, order confirmation and any messages.</li>\n<li>Report the website: in the UK to the NCSC’s suspicious website service and to Report Fraud; in the US to ReportFraud.ftc.gov.</li>\n<li>Change any password you used on the site, and watch for phishing emails using your order details.</li></ul><p>More in our <a href=\"/online-scams/\">guide to online scams</a>.</p><p class=\"note\"><strong>General information, not legal advice.</strong> This post reflects the position on the date shown. Check the official sources below for the latest rules.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Does a padlock in the address bar mean a site is safe?",
+      "a": "No. It only means data between you and the site is encrypted. Scam sites routinely use HTTPS too."
+    },
+    {
+      "q": "What if the shop sends a cheap fake instead of the real item?",
+      "a": "That’s goods not as described. Contact the seller in writing, then ask your card provider for a chargeback or Section 75 claim, with photos as evidence."
+    }
+  ],
+  "sources": [
+    {
+      "title": "NCSC: phishing and scams",
+      "url": "https://www.ncsc.gov.uk/collection/phishing-scams"
+    },
+    {
+      "title": "FTC: online shopping",
+      "url": "https://consumer.ftc.gov/articles/online-shopping"
+    },
+    {
+      "title": "Citizens Advice: check if something might be a scam",
+      "url": "https://www.citizensadvice.org.uk/consumer/scams/check-if-something-might-be-a-scam/"
+    },
+    {
+      "title": "Companies House: search the register",
+      "url": "https://find-and-update.company-information.service.gov.uk/"
+    }
+  ]
+}

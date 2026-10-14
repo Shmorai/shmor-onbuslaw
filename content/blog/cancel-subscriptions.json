@@ -1,0 +1,77 @@
+{
+  "updated": "2026-10-14",
+  "date": "2026-10-14",
+  "slug": "blog/cancel-subscriptions",
+  "type": "post",
+  "title": "How to Cancel a Subscription: Your Rights in 2026",
+  "description": "Struggling to cancel a subscription? The 2026 rules: what happened to the FTC click-to-cancel rule, US state laws, UK reforms and EU cancellation rights.",
+  "h1": "How to cancel a subscription: your rights in the US, UK and EU",
+  "eyebrow": "Explainer · Subscriptions",
+  "intro": "Subscriptions are easy to start and often hard to stop. The rules on auto-renewals are changing on both sides of the Atlantic. Here’s where things stand in October 2026, and what you can do now.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1596558450268-9c27524ba856",
+    "alt": "Smartphone home screen full of app icons on a wooden surface",
+    "credit": "Thom Bradley",
+    "creditUrl": "https://unsplash.com/@thombradley"
+  },
+  "keywords": [
+    "cancel subscription",
+    "click to cancel",
+    "ftc click to cancel",
+    "auto renewal",
+    "automatic renewal law",
+    "rosca",
+    "negative option rule",
+    "subscription trap",
+    "dmcc subscription",
+    "continuous payment authority",
+    "stop recurring payment"
+  ],
+  "cardText": "The FTC rule’s fate, US state laws, UK reforms, EU rights and how to stop recurring payments.",
+  "sections": [
+    {
+      "h2": "United States",
+      "html": "<p>The FTC’s “click-to-cancel” rule, an update to its Negative Option Rule adopted in 2024, was <strong>vacated by the US Court of Appeals for the Eighth Circuit on 8 July 2025</strong>, before its main requirements took effect, on procedural grounds. In 2026 the FTC formally restored the earlier version of the rule and opened a new rulemaking process, so no new federal click-to-cancel requirement is currently in force.</p><p>Federal protection still exists. The <strong>Restore Online Shoppers’ Confidence Act (ROSCA)</strong> requires online sellers to clearly disclose the terms of a subscription before taking payment, get your express informed consent, and provide a simple way to stop recurring charges. Many states also have automatic renewal laws. California’s, strengthened from 1 July 2025, requires businesses to let consumers cancel online in the same way they signed up, among other things.</p>"
+    },
+    {
+      "h2": "United Kingdom",
+      "html": "<p>The Digital Markets, Competition and Consumers Act 2024 includes a new regime for subscription contracts, with reminder notices, a cooling-off period on renewals and easy exit. It is <strong>not yet in force</strong>: in April 2026 the government said it expected the regime to start in spring 2027 at the earliest. Until then:</p><ul><li>the 14-day cancellation right applies to new online subscriptions;</li>\n<li>misleading or aggressive practices, including making cancelling unreasonably hard, can breach consumer law enforced by the CMA;</li>\n<li>if a subscription is charged to your card as a <strong>continuous payment authority</strong>, you can tell your card provider to stop the payments, and it must do so.</li></ul>"
+    },
+    {
+      "h2": "European Union",
+      "html": "<p>New online subscriptions come with the 14-day withdrawal right, and since June 2026 sellers must provide an online <a href=\"/blog/eu-withdrawal-button/\">withdrawal button</a> during that period. Unfair contract terms, such as hidden long automatic renewals, aren’t binding on consumers. Some countries go further: Germany, for example, has required a “cancel contracts here” button for ongoing consumer contracts concluded online since July 2022.</p>"
+    },
+    {
+      "h2": "How to cancel: a practical checklist",
+      "html": "<ol><li>Look in your account settings and the app store (for subscriptions bought through Apple or Google, cancel there).</li>\n<li>Cancel in writing (email or the online form) and keep the confirmation. Screenshot each step.</li>\n<li>Check the renewal date, and cancel before it to avoid another charge.</li>\n<li>If the business makes cancelling impossible, ask your card provider to stop future payments, and dispute charges taken after you cancelled. See <a href=\"/chargebacks/\">card disputes</a>.</li>\n<li>Report subscription traps: to the FTC or your state attorney general (US), Citizens Advice (UK) or your national consumer authority (EU).</li></ol><p class=\"note\"><strong>General information, not legal advice.</strong> This post reflects the position on the date shown. Check the official sources below for the latest rules.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is the FTC click-to-cancel rule in effect?",
+      "a": "No. The Eighth Circuit vacated it in July 2025. The FTC has started a new rulemaking, but ROSCA and state automatic renewal laws are what apply now."
+    },
+    {
+      "q": "Can my bank stop a subscription payment?",
+      "a": "Your card provider can stop future recurring card payments if you ask (in the UK it must stop a continuous payment authority). You still owe anything due under the contract, so cancel with the business too."
+    }
+  ],
+  "sources": [
+    {
+      "title": "FTC: Restore Online Shoppers’ Confidence Act",
+      "url": "https://www.ftc.gov/legal-library/browse/statutes/restore-online-shoppers-confidence-act"
+    },
+    {
+      "title": "FTC: Negative Option Rule",
+      "url": "https://www.ftc.gov/legal-library/browse/rules/negative-option-rule"
+    },
+    {
+      "title": "Digital Markets, Competition and Consumers Act 2024 (legislation.gov.uk)",
+      "url": "https://www.legislation.gov.uk/ukpga/2024/13/contents"
+    },
+    {
+      "title": "Citizens Advice: consumer",
+      "url": "https://www.citizensadvice.org.uk/consumer/"
+    }
+  ]
+}

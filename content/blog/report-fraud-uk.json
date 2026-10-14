@@ -1,0 +1,75 @@
+{
+  "updated": "2026-10-14",
+  "date": "2026-10-14",
+  "slug": "blog/report-fraud-uk",
+  "type": "post",
+  "title": "Action Fraud Is Now Report Fraud: Reporting UK Scams",
+  "description": "The UK has replaced Action Fraud with Report Fraud. How to report a scam or cyber crime now, what happens next, and other ways to report scam texts and emails.",
+  "h1": "Action Fraud is now Report Fraud: how to report a scam in the UK",
+  "eyebrow": "Scam alert · UK",
+  "intro": "The UK’s national fraud reporting service has changed. Action Fraud has been replaced by Report Fraud, run by the City of London Police. Here’s how to report now, and the other numbers worth knowing.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1549483249-f0b359d1e289",
+    "alt": "London skyline with the Gherkin and the River Thames at low sun",
+    "credit": "Alev Takil",
+    "creditUrl": "https://unsplash.com/@alevtakil"
+  },
+  "keywords": [
+    "report fraud",
+    "action fraud",
+    "report fraud uk",
+    "reportfraud.police.uk",
+    "report a scam uk",
+    "report cyber crime uk",
+    "7726",
+    "159",
+    "report phishing"
+  ],
+  "cardText": "The new UK fraud reporting service, how to use it and other ways to report scams.",
+  "sections": [
+    {
+      "h2": "What changed",
+      "html": "<p>The City of London Police, the national lead force for fraud, launched <strong>Report Fraud</strong> on 4 December 2025, followed by a full public launch in January 2026. It replaces Action Fraud and the National Fraud Intelligence Bureau, with three parts: an online reporting tool and contact centre, a national analysis service that shares intelligence with local police forces, and a victim support service.</p>"
+    },
+    {
+      "h2": "How to report fraud or cyber crime",
+      "html": "<ul><li>Online at <strong>reportfraud.police.uk</strong>, or by phone on <strong>0300 123 2040</strong>, if you live in England, Wales or Northern Ireland.</li>\n<li>In <strong>Scotland</strong>, report to Police Scotland on 101.</li>\n<li>If a crime is happening now or someone is in danger, call <strong>999</strong>.</li></ul><p>Have the details ready: dates, amounts, how you paid, websites, phone numbers, emails and messages. You should receive a crime reference number, which your bank may ask for.</p>"
+    },
+    {
+      "h2": "Other ways to report",
+      "html": "<ul><li><strong>Call 159</strong> to reach the fraud team of most major UK banks safely, if you think you’ve been targeted or have paid a scammer.</li>\n<li>Forward scam <strong>texts to 7726</strong>, free on most networks.</li>\n<li>Forward suspicious <strong>emails to report@phishing.gov.uk</strong>, run by the National Cyber Security Centre, which can take down malicious websites.</li>\n<li>Report scam adverts to the platform showing them, and misleading ads to the Advertising Standards Authority.</li></ul>"
+    },
+    {
+      "h2": "Getting your money back",
+      "html": "<p>Contact your bank first, as quickly as possible. Since October 2024, most victims of bank transfer (APP) scams must be reimbursed by their payment provider, up to £85,000 per claim. Card payments may be recoverable through a chargeback or Section 75. See <a href=\"/online-scams/\">our scams guide</a> and <a href=\"/chargebacks/\">card disputes</a>.</p><p class=\"note\"><strong>General information, not legal advice.</strong> This post reflects the position on the date shown. Check the official sources below for the latest rules.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can I still use the Action Fraud website?",
+      "a": "Report Fraud has replaced Action Fraud as the national reporting service. Use reportfraud.police.uk, or call 0300 123 2040."
+    },
+    {
+      "q": "Will the police get my money back?",
+      "a": "Reporting helps investigations and can lead to funds being frozen, but your bank or card provider is usually the quickest route to a refund, so contact them first."
+    }
+  ],
+  "sources": [
+    {
+      "title": "GOV.UK: Report Fraud, the new service from City of London Police",
+      "url": "https://www.gov.uk/government/news/report-fraud-new-service-from-city-of-london-police"
+    },
+    {
+      "title": "Report Fraud",
+      "url": "https://www.reportfraud.police.uk/"
+    },
+    {
+      "title": "NCSC: phishing and scams",
+      "url": "https://www.ncsc.gov.uk/collection/phishing-scams"
+    },
+    {
+      "title": "Stop Scams UK: call 159",
+      "url": "https://stopscamsuk.org.uk/159"
+    }
+  ]
+}
