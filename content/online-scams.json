@@ -44,11 +44,11 @@
     },
     {
       "h2": "Common online scams",
-      "html": "<ul><li><strong>Fake online shops</strong> selling goods that never arrive. See <a href=\"/blog/fake-online-shops/\">how to spot a fake shop</a>.</li>\n<li><strong>Marketplace scams:</strong> buyers or sellers who ask you to pay or talk outside the platform, or send fake payment emails.</li>\n<li><strong>Phishing and smishing:</strong> emails and texts pretending to be a delivery company, bank, tax authority or streaming service, linking to fake login or payment pages.</li>\n<li><strong>Impersonation:</strong> calls or messages from “your bank”, “the police” or a family member on a new number asking you to move money.</li>\n<li><strong>Investment and crypto scams</strong>, often promoted with fake celebrity endorsements.</li>\n<li><strong>Romance scams</strong> and <strong>job or “task” scams</strong> that ask you to pay to earn.</li>\n<li><strong>Tech support scams</strong> that ask for remote access to your computer.</li></ul>"
+      "html": "<ul><li><strong>Fake online shops</strong> selling goods that never arrive. See <a href=\"/blog/fake-online-shops/\">how to spot a fake shop</a>.</li>\n<li><strong>Marketplace scams:</strong> buyers or sellers who ask you to pay or talk outside the platform, or send fake payment emails.</li>\n<li><strong>Phishing and smishing:</strong> emails and texts pretending to be a delivery company, bank, tax authority or streaming service, linking to fake login or payment pages.</li>\n<li><strong>Impersonation:</strong> calls or messages from “your bank”, “the police” or a family member on a new number asking you to move money.</li>\n<li><strong>Investment and crypto scams</strong>, often promoted with fake celebrity endorsements.</li>\n<li><strong>Romance scams</strong> and <strong>job or “task” scams</strong> that ask you to pay to earn.</li>\n<li><strong>Tech support scams</strong> that ask for remote access to your computer.</li></ul>\n[[banner:cj5324242-b-350]]"
     },
     {
       "h2": "Warning signs",
-      "html": "<ul><li>Pressure to act right now, or secrecy (“don’t tell your bank”).</li>\n<li>Requests to pay by bank transfer, gift cards or cryptocurrency instead of a protected card payment.</li>\n<li>Prices or returns that look too good to be true.</li>\n<li>Requests for one-time passcodes, PINs or remote access. Banks never ask for these.</li>\n<li>Links that don’t match the real website address, and brand-new websites with no clear company details.</li></ul>"
+      "html": "<ul><li>Pressure to act right now, or secrecy (“don’t tell your bank”).</li>\n<li>Requests to pay by bank transfer, gift cards or cryptocurrency instead of a protected card payment.</li>\n<li>Prices or returns that look too good to be true.</li>\n<li>Requests for one-time passcodes, PINs or remote access. Banks never ask for these.</li>\n<li>Links that don’t match the real website address, and brand-new websites with no clear company details.</li></ul>\n<p>Use a different password for every account, so a single leaked or phished password can’t unlock everything else. A password manager such as [[link:cj5324242-home|NordPass]] can generate and store them.</p>"
     },
     {
       "h2": "Where to report fraud",
@@ -111,5 +111,9 @@
       "title": "Europol: report cybercrime online",
       "url": "https://www.europol.europa.eu/report-a-crime/report-cybercrime-online"
     }
-  ]
+  ],
+  "partners": [
+    "cj5324242-home"
+  ],
+  "partnersTitle": "Protect your accounts"
 }

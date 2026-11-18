@@ -34,7 +34,7 @@
     },
     {
       "h2": "The first 24 hours",
-      "html": "<ol><li><strong>Call your bank and card providers</strong> about any suspicious activity and ask them to block cards if needed.</li>\n<li><strong>Secure your email first</strong>, as it unlocks everything else: change the password, turn on two-step verification and remove unknown devices and forwarding rules.</li>\n<li><strong>Change passwords</strong> on other important accounts, using a different password for each (a password manager helps).</li>\n<li><strong>Check your credit reports</strong> for accounts you didn’t open.</li>\n<li><strong>Report it</strong> and keep a log of who you contacted and when.</li></ol>"
+      "html": "<ol><li><strong>Call your bank and card providers</strong> about any suspicious activity and ask them to block cards if needed.</li>\n<li><strong>Secure your email first</strong>, as it unlocks everything else: change the password, turn on two-step verification and remove unknown devices and forwarding rules.</li>\n<li><strong>Change passwords</strong> on other important accounts, using a different password for each (a password manager helps).</li>\n<li><strong>Check your credit reports</strong> for accounts you didn’t open.</li>\n<li><strong>Report it</strong> and keep a log of who you contacted and when.</li></ol>\n<p>Once your accounts are secure, change any password you have reused and use a different one for every account. A password manager such as [[link:cj5324242-home|NordPass]] can create and remember them for you.</p>\n[[button:cj5324242-home|Try the NordPass password manager]]"
     },
     {
       "h2": "In the US",
@@ -46,7 +46,7 @@
     },
     {
       "h2": "In the EU",
-      "html": "<ul><li>Report to your national police; you may need a police report to dispute fraudulent accounts.</li>\n<li>Ask banks and lenders for details of accounts opened in your name, and check your record with your country’s credit bureau or central credit register where one exists.</li>\n<li>Under the GDPR you can ask organisations what personal data they hold about you, and ask them to correct it.</li></ul>"
+      "html": "<ul><li>Report to your national police; you may need a police report to dispute fraudulent accounts.</li>\n<li>Ask banks and lenders for details of accounts opened in your name, and check your record with your country’s credit bureau or central credit register where one exists.</li>\n<li>Under the GDPR you can ask organisations what personal data they hold about you, and ask them to correct it.</li></ul>\n[[banner:cj5324242-b-350]]"
     },
     {
       "h2": "After a data breach",
@@ -93,5 +93,9 @@
       "title": "Cifas: Protective Registration",
       "url": "https://www.cifas.org.uk/pr"
     }
-  ]
+  ],
+  "partners": [
+    "cj5324242-home"
+  ],
+  "partnersTitle": "Protect your accounts"
 }
