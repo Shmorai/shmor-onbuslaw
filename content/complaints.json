@@ -35,7 +35,7 @@
   "sections": [
     {
       "h2": "Step 1: complain to the business in writing",
-      "html": "<p>Use email, the company’s complaint form or a letter, so you have a record. Include:</p><ul><li>your name, order number and the date you bought;</li>\n<li>what went wrong, in a few factual sentences;</li>\n<li>the right you’re relying on (for example “faulty goods under the Consumer Rights Act 2015” or “the 14-day cancellation right”);</li>\n<li>what you want: a repair, replacement, refund or compensation;</li>\n<li>a reasonable deadline, such as 14 days;</li>\n<li>copies (not originals) of receipts, photos and earlier messages.</li></ul><p class=\"note\"><strong>Template.</strong> “On [date] I bought [item] (order [number]). [Describe the problem.] Under [law or right] I am entitled to [remedy]. Please [refund / repair / replace] by [date]. If this isn’t resolved, I will [contact my card provider / refer this to ADR / start a small claim].”</p>"
+      "html": "<p>Use email, the company’s complaint form or a letter, so you have a record. Include:</p><ul><li>your name, order number and the date you bought;</li>\n<li>what went wrong, in a few factual sentences;</li>\n<li>the right you’re relying on (for example “faulty goods under the Consumer Rights Act 2015” or “the 14-day cancellation right”);</li>\n<li>what you want: a repair, replacement, refund or compensation;</li>\n<li>a reasonable deadline, such as 14 days;</li>\n<li>copies (not originals) of receipts, photos and earlier messages.</li></ul><p class=\"note\"><strong>Template.</strong> “On [date] I bought [item] (order [number]). [Describe the problem.] Under [law or right] I am entitled to [remedy]. Please [refund / repair / replace] by [date]. If this isn’t resolved, I will [contact my card provider / refer this to ADR / start a small claim].”</p>\n[[button:cj4544498-demand-letter|Write a demand letter with LawDepot]]"
     },
     {
       "h2": "Step 2: use your payment protection",
@@ -43,11 +43,11 @@
     },
     {
       "h2": "Step 3: escalate outside the business",
-      "html": "<table><thead><tr><th>Where</th><th>Options</th></tr></thead><tbody>\n<tr><td><strong>UK</strong></td><td>An ADR scheme or ombudsman, if the trader belongs to one (for example the Financial Ombudsman Service for financial firms, or the energy and communications ombudsmen). The Citizens Advice consumer service (Advice Direct Scotland, Consumerline in Northern Ireland) can advise and pass reports to Trading Standards.</td></tr>\n<tr><td><strong>EU</strong></td><td>A national ADR body (the European Commission lists approved bodies). For a purchase from a business in another EU country, Iceland or Norway, ECC-Net helps for free. The EU’s online dispute resolution (ODR) platform closed on 20 July 2025, so traders no longer link to it.</td></tr>\n<tr><td><strong>US</strong></td><td>Your state attorney general’s consumer protection office, the Better Business Bureau, and the Consumer Financial Protection Bureau for banks, cards and other financial products. Reporting to the FTC helps enforcement, though the FTC doesn’t resolve individual complaints.</td></tr>\n</tbody></table>"
+      "html": "<table><thead><tr><th>Where</th><th>Options</th></tr></thead><tbody>\n<tr><td><strong>UK</strong></td><td>An ADR scheme or ombudsman, if the trader belongs to one (for example the Financial Ombudsman Service for financial firms, or the energy and communications ombudsmen). The Citizens Advice consumer service (Advice Direct Scotland, Consumerline in Northern Ireland) can advise and pass reports to Trading Standards.</td></tr>\n<tr><td><strong>EU</strong></td><td>A national ADR body (the European Commission lists approved bodies). For a purchase from a business in another EU country, Iceland or Norway, ECC-Net helps for free. The EU’s online dispute resolution (ODR) platform closed on 20 July 2025, so traders no longer link to it.</td></tr>\n<tr><td><strong>US</strong></td><td>Your state attorney general’s consumer protection office, the Better Business Bureau, and the Consumer Financial Protection Bureau for banks, cards and other financial products. Reporting to the FTC helps enforcement, though the FTC doesn’t resolve individual complaints.</td></tr>\n</tbody></table>\n[[banner:cj4544498-b-generic-728|cj4544498-b-business-300]]"
     },
     {
       "h2": "Step 4: small claims court",
-      "html": "<ul><li><strong>England and Wales:</strong> claims up to £10,000 normally go to the small claims track; you can start online with Money Claim Online. Scotland and Northern Ireland have their own procedures.</li>\n<li><strong>EU:</strong> the European Small Claims Procedure handles cross-border claims up to €5,000, mostly in writing. National courts have their own small claims processes.</li>\n<li><strong>US:</strong> every state has small claims courts; the maximum claim and procedures vary by state.</li></ul><p>Court fees apply and are often recoverable if you win. Many disputes settle once the business receives a formal “letter before action”.</p>"
+      "html": "<ul><li><strong>England and Wales:</strong> claims up to £10,000 normally go to the small claims track; you can start online with Money Claim Online. Scotland and Northern Ireland have their own procedures.</li>\n<li><strong>EU:</strong> the European Small Claims Procedure handles cross-border claims up to €5,000, mostly in writing. National courts have their own small claims processes.</li>\n<li><strong>US:</strong> every state has small claims courts; the maximum claim and procedures vary by state.</li></ul><p>Court fees apply and are often recoverable if you win. Many disputes settle once the business receives a formal “letter before action”.</p>\n<p>If you want help with the wording, LawDepot has a [[link:cj4544498-demand-letter|demand letter template]] (a “letter before action” in the UK) that you can adapt to your case.</p>"
     },
     {
       "h2": "Time limits",
@@ -106,5 +106,9 @@
       "title": "USA.gov: where to file a consumer complaint",
       "url": "https://www.usa.gov/consumer-complaints"
     }
-  ]
+  ],
+  "partners": [
+    "cj4544498-demand-letter"
+  ],
+  "partnersTitle": "Legal document templates from our partner"
 }

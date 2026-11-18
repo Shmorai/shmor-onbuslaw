@@ -34,7 +34,7 @@
   "sections": [
     {
       "h2": "Which pages you need",
-      "html": "<table><thead><tr><th>Page</th><th>When</th><th>Main rules</th></tr></thead><tbody>\n<tr><td><strong>Privacy notice</strong></td><td>Whenever you collect personal data, including via contact forms, analytics or orders</td><td>GDPR / UK GDPR; in the US, California’s CalOPPA and state privacy laws</td></tr>\n<tr><td><strong>Cookie notice and consent</strong></td><td>When you use non-essential cookies or similar tracking (analytics, ads, affiliate tracking)</td><td>UK PECR; EU ePrivacy Directive</td></tr>\n<tr><td><strong>Terms of sale</strong></td><td>When you sell to customers</td><td>Consumer law (UK Consumer Rights Act, EU Consumer Rights Directive, US state law)</td></tr>\n<tr><td><strong>Business details</strong></td><td>Always in the UK and EU</td><td>UK Electronic Commerce Regulations 2002 and company law; EU E-Commerce Directive (and Germany’s “Impressum”)</td></tr>\n<tr><td><strong>Website terms of use</strong></td><td>Recommended for most sites</td><td>Contract law</td></tr>\n</tbody></table>"
+      "html": "<table><thead><tr><th>Page</th><th>When</th><th>Main rules</th></tr></thead><tbody>\n<tr><td><strong>Privacy notice</strong></td><td>Whenever you collect personal data, including via contact forms, analytics or orders</td><td>GDPR / UK GDPR; in the US, California’s CalOPPA and state privacy laws</td></tr>\n<tr><td><strong>Cookie notice and consent</strong></td><td>When you use non-essential cookies or similar tracking (analytics, ads, affiliate tracking)</td><td>UK PECR; EU ePrivacy Directive</td></tr>\n<tr><td><strong>Terms of sale</strong></td><td>When you sell to customers</td><td>Consumer law (UK Consumer Rights Act, EU Consumer Rights Directive, US state law)</td></tr>\n<tr><td><strong>Business details</strong></td><td>Always in the UK and EU</td><td>UK Electronic Commerce Regulations 2002 and company law; EU E-Commerce Directive (and Germany’s “Impressum”)</td></tr>\n<tr><td><strong>Website terms of use</strong></td><td>Recommended for most sites</td><td>Contract law</td></tr>\n</tbody></table>\n<p>Template services such as [[link:cj4544498-website-terms|LawDepot’s website terms and conditions]] (UK and US versions) can give you a starting point; adapt them to how your site actually works.</p>"
     },
     {
       "h2": "What a privacy notice must cover",
@@ -42,7 +42,7 @@
     },
     {
       "h2": "Cookie consent done right",
-      "html": "<ul><li>Strictly necessary cookies (such as a shopping basket or security) don’t need consent.</li>\n<li>Other cookies, including most analytics, advertising and affiliate tracking, need consent <strong>before</strong> they are set.</li>\n<li>Rejecting should be as easy as accepting, with no pre-ticked boxes and no “cookie walls” that leave no real choice.</li>\n<li>Let people change their mind at any time.</li></ul><p>Regulators such as the UK’s ICO and France’s CNIL actively enforce these rules. In the UK, the Data (Use and Access) Act 2025 creates new exemptions from consent for some low-risk cookies, such as certain analytics, as its provisions come into force, so follow the ICO’s latest guidance.</p>"
+      "html": "<ul><li>Strictly necessary cookies (such as a shopping basket or security) don’t need consent.</li>\n<li>Other cookies, including most analytics, advertising and affiliate tracking, need consent <strong>before</strong> they are set.</li>\n<li>Rejecting should be as easy as accepting, with no pre-ticked boxes and no “cookie walls” that leave no real choice.</li>\n<li>Let people change their mind at any time.</li></ul><p>Regulators such as the UK’s ICO and France’s CNIL actively enforce these rules. In the UK, the Data (Use and Access) Act 2025 creates new exemptions from consent for some low-risk cookies, such as certain analytics, as its provisions come into force, so follow the ICO’s latest guidance.</p>\n[[banner:cj4544498-b-business-728|cj4544498-b-business-300]]"
     },
     {
       "h2": "Terms and conditions",
@@ -89,5 +89,9 @@
       "title": "Electronic Commerce (EC Directive) Regulations 2002 (legislation.gov.uk)",
       "url": "https://www.legislation.gov.uk/uksi/2002/2013/contents"
     }
-  ]
+  ],
+  "partners": [
+    "cj4544498-website-terms"
+  ],
+  "partnersTitle": "Legal document templates from our partner"
 }

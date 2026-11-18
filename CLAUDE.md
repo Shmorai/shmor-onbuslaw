@@ -1,6 +1,6 @@
 # OnBusLaw (onbuslaw.shmor.ai)
 
-A Shmor marketplace (shared rules in `../../CLAUDE.md`): its own brand, design and SEO. "Online business law, explained": free plain-English legal information for online shoppers, sellers and creators in the US, UK and EU: consumer rights, refunds and returns, chargebacks, scams and identity theft, trademarks, copyright, affiliate/influencer disclosure rules, website legal pages, marketplace selling and customer-service complaints. Repo: `Shmorai/shmor-onbuslaw` (private until launch). Status: **building**, with no referral links yet.
+A Shmor marketplace (shared rules in `../../CLAUDE.md`): its own brand, design and SEO. "Online business law, explained": free plain-English legal information for online shoppers, sellers and creators in the US, UK and EU: consumer rights, refunds and returns, chargebacks, scams and identity theft, trademarks, copyright, affiliate/influencer disclosure rules, website legal pages, marketplace selling and customer-service complaints. Repo: `Shmorai/shmor-onbuslaw` (private until launch). Status: **live**, with LawDepot (CJ) referral links (see "Affiliate partners").
 
 ## Where things are
 | What | Where |
@@ -46,5 +46,10 @@ After changing `shmor-site.json` (links, keywords, card), also run `node tools/s
 3. `node tools/build.js`, then sync the master, then commit both repos.
 Likely programmes: online legal services (business formation, trademark filing, document templates), identity theft protection, password managers, privacy/cookie-consent tools, accounting/VAT software. Keep partner placement clearly separate from the legal information.
 
+## Affiliate partners (live)
+- **LawDepot** (CJ advertiser 4544498, joined; added 2026-11-18). DIY legal document templates (subscription with free trial). 30% of sales, $6.50 per free trial, 120-day cookie; no pay on renewals or if another affiliate's cookie is present. Terms: no LawDepot brand terms in paid search/ad copy/display URLs, no affiliate links as PPC destinations; LawDepot Materials can't be changed (banners used unmodified, self-hosted in `assets/img/partners/` because CJ image URLs break in Chrome; user approved).
+- Codes generated in CJ for the **OnBusLaw website property (PID 101926904)**. Deep links via link 16944793 with `?loc=GB` (UK) and `?loc=US` (US) document pages; EU visitors fall back to the US version (no LawDepot EU English). Slugs `cj4544498-*`: business, website-terms, demand-letter, cease-desist, partnership, business-plan + banners business-728/300 and generic-728 (the generic 300x250 shows real-estate forms, so not used).
+- Placed on: home (cards), online-business-legal-checklist, website-terms-and-privacy, complaints, refunds-and-returns, copyright-and-takedowns, trademarks, blog/eu-withdrawal-button. Wording: "template", "subscription with a free trial", "not legal advice"; never "free" or "lawyer-approved".
+
 ## Ideas / next
-Referral links · more pages (GDPR subject access requests, product safety for sellers, digital content/app refunds, freelancer contracts, travel/flight compensation link to TravelDeals) · a social share image (`seo.image`) · a weekly blog task for new rules and scam alerts.
+More legal/business partners · more pages (GDPR subject access requests, product safety for sellers, digital content/app refunds, freelancer contracts, travel/flight compensation link to TravelDeals) · a social share image (`seo.image`) · a weekly blog task for new rules and scam alerts.
