@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14",
+  "updated": "2026-11-19",
   "slug": "copyright-and-takedowns",
   "title": "Copyright Online: DMCA, Takedowns and Using Content",
   "description": "How copyright works online: who owns content, using images and music legally, DMCA and EU or UK takedown notices, and what to do if you’re copied.",
@@ -45,6 +45,10 @@
     {
       "h2": "If your content was taken down",
       "html": "<p>If you believe a takedown was a mistake or your use was lawful, you can send a <strong>counter-notice</strong>. Under the DMCA, the platform can restore the material 10 to 14 business days after receiving it, unless the complainant tells it they’ve started a lawsuit. Knowingly misrepresenting infringement in a notice or counter-notice can make you liable for damages. EU platforms must also offer an internal complaint system for content decisions.</p><p class=\"note\"><strong>General information, not legal advice.</strong> Rules vary by country, state and situation, and they change. Check the official sources below, and speak to a qualified lawyer or a free advice service if a lot is at stake.</p>"
+    },
+    {
+      "h2": "US counter-notices: what they must contain and what happens next",
+      "html": "<p>If a US platform removed your content after a DMCA notice and you believe it was a mistake or misidentification, section 512(g) of the US Copyright Act sets out the counter-notification process. A valid counter-notice is in writing, sent to the platform's designated agent, and includes:</p><ul><li>your physical or electronic signature;</li><li>identification of the removed material and where it appeared before removal;</li><li>a statement <strong>under penalty of perjury</strong> that you have a good-faith belief it was removed by mistake or misidentification;</li><li>your name, address and phone number, plus consent to the jurisdiction of a US federal court and agreement to accept service of process from the person who complained.</li></ul><p>The platform must then pass your counter-notice to the complainant. Unless the complainant tells the platform it has filed a court action against you, the platform must restore the material not less than <strong>10 and not more than 14 business days</strong> after receiving the counter-notice. Because the consent to US jurisdiction is real, people outside the US should think carefully, and consider advice, before filing one. Note too that knowingly making a false claim of infringement, or a false counter-notice, can make a person liable for damages, including costs and attorneys' fees (section 512(f)).</p>"
     }
   ],
   "faqs": [
@@ -59,6 +63,14 @@
     {
       "q": "Someone copied my product photos. What can I do?",
       "a": "Report them to the marketplace or host using its copyright tool or a DMCA notice. You can also contact the seller directly. If the copying is serious or repeated, a lawyer can advise on claims."
+    },
+    {
+      "q": "How long does a DMCA counter-notice take to work?",
+      "a": "Under section 512(g), if the complainant does not file a court action, the platform must restore the content between 10 and 14 business days after receiving a valid counter-notice."
+    },
+    {
+      "q": "Do I have to accept US court jurisdiction to file a counter-notice?",
+      "a": "Yes. The counter-notice must include consent to the jurisdiction of a federal court and agreement to accept service of process, so people outside the US should consider taking advice before filing one."
     }
   ],
   "related": [
@@ -86,6 +98,10 @@
     {
       "title": "Creative Commons licences",
       "url": "https://creativecommons.org/licenses/"
+    },
+    {
+      "title": "17 U.S. Code § 512: limitations on liability relating to material online (Cornell LII)",
+      "url": "https://www.law.cornell.edu/uscode/text/17/512"
     }
   ]
 }

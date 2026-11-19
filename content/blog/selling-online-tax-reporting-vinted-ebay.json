@@ -1,0 +1,96 @@
+{
+  "updated": "2026-11-19",
+  "date": "2026-11-19",
+  "slug": "blog/selling-online-tax-reporting-vinted-ebay",
+  "type": "post",
+  "title": "Selling on Vinted or eBay: Tax Reporting Rules",
+  "description": "Do you pay tax selling on Vinted, eBay or Etsy? How platform reporting to HMRC, the IRS and EU tax authorities works, and when a hobby becomes a trade.",
+  "h1": "Selling on Vinted or eBay: when platforms report you and when you owe tax",
+  "eyebrow": "Selling online · Tax reporting",
+  "intro": "Online marketplaces now send seller data to tax authorities in the UK, EU and US. Being reported is not the same as owing tax, and clearing out your wardrobe is different from buying stock to resell. Here is how the rules work, and what to do if you are somewhere in the middle.",
+  "image": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Home-office-336377.jpg/1920px-Home-office-336377.jpg",
+    "alt": "Laptop, notebook, phone and coffee on a wooden desk",
+    "credit": "Free-Photos (Pixabay) / CC0",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Home-office-336377.jpg"
+  },
+  "keywords": [
+    "do i pay tax selling on vinted",
+    "ebay seller hmrc reporting",
+    "vinted tax uk",
+    "hmrc online sellers 30 sales",
+    "digital platform reporting",
+    "dac7 online sellers",
+    "1099-k online sellers",
+    "is selling on ebay taxable",
+    "trading allowance £1,000",
+    "etsy seller tax reporting"
+  ],
+  "cardText": "Platform reporting to HMRC, the IRS and EU tax authorities, and when selling online becomes a taxable trade.",
+  "sections": [
+    {
+      "h2": "Being reported is not a new tax",
+      "html": "<p>Since 2024, online platforms in the UK have had to collect seller details and report them to HMRC each year. HMRC states plainly that <strong>there is no new tax for online selling</strong>: only the reporting rules for platforms changed. Platforms tell sellers when their information has been shared. In the UK, reports cover people who sold <strong>30 or more items, or earned roughly £1,700 (equivalent to €2,000)</strong>, in a calendar year, and platforms report for a year by the following 31 January. The EU and US have similar systems, covered below. If you are a business owner as well, see our <a href=\"/selling-on-marketplaces/\">marketplace selling guide</a>.</p>"
+    },
+    {
+      "h2": "UK: when does selling become taxable?",
+      "html": "<p>HMRC's guidance says you are unlikely to pay tax if you sell personal items from your home, like the contents of a loft or garage. But if you buy or make goods to sell at a profit, you are likely to be <strong>trading</strong> and will have to pay tax on your profits.</p><ul><li><strong>The £1,000 trading allowance:</strong> if your gross trading income in a tax year (6 April to 5 April) is £1,000 or less, you generally do not need to tell HMRC, though you should keep records. Above £1,000, you generally need to register for Self Assessment, and you can deduct either the allowance or your actual expenses, not both on the same income.</li><li><strong>Registration deadline:</strong> HMRC says to register by 5 October following the end of the tax year in which you started.</li><li><strong>Selling personal items at a gain</strong> can in some cases fall under capital gains rules, so check HMRC's guidance if you sold something valuable.</li></ul><p>The 30-sale reporting test and the £1,000 allowance measure different things: one decides whether the platform reports you, the other whether you must tell HMRC about trading income.</p>"
+    },
+    {
+      "h2": "EU: DAC7 and what platforms collect",
+      "html": "<p>EU marketplaces operate under the DAC7 directive (2021/514), which requires platforms to collect and report seller data. Sellers with fewer than 30 sales of goods in a calendar year totalling no more than €2,000 are excluded from reporting. In June 2026 the European Commission proposed changing the thresholds, but unless and until that is adopted and implemented, check the national rules where you sell. Each member state's tax authority decides how the information is used and what counts as taxable activity. For consumer-side rules on what you must tell buyers once you are a trader, see our <a href=\"/consumer-rights/\">consumer rights guide</a>.</p>"
+    },
+    {
+      "h2": "US: Form 1099-K",
+      "html": "<p>US payment apps and online marketplaces must send the IRS a Form 1099-K when payments to a seller total over <strong>$20,000 in more than 200 transactions</strong>, though a platform may issue one below that level. Personal items such as clothing or furniture sold at a gain are taxable income, so receiving no form does not mean income is exempt. States may have their own reporting thresholds. Check the IRS guidance and your state tax agency.</p>"
+    },
+    {
+      "h2": "What to do if you sell regularly",
+      "html": "<ol><li><strong>Keep simple records:</strong> what you bought, what you sold it for, fees and postage.</li><li><strong>Check your platform statement</strong> when your annual information is shared, and tell the platform if details are wrong.</li><li><strong>Decide honestly:</strong> are you clearing your home, or buying and reselling for profit?</li><li><strong>Ask a tax adviser or your tax authority</strong> if you are close to the line.</li><li><strong>Remember consumer law:</strong> trader status brings obligations on returns and information. See our <a href=\"/refunds-and-returns/\">refunds and returns guide</a> and the <a href=\"/online-business-legal-checklist/\">online business legal checklist</a>.</li></ol>[[button:cj4544498-business|Browse business document templates]]<p class=\"note\"><strong>General information, not legal or tax advice.</strong> This post reflects the position on the date shown. Check the official sources below for the latest rules.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do I pay tax on selling clothes on Vinted?",
+      "a": "Generally not if you are selling your own unwanted items. HMRC says you are unlikely to pay tax on personal items from your home. If you buy items to resell at a profit, that is likely trading and taxable."
+    },
+    {
+      "q": "Will HMRC know about my eBay sales?",
+      "a": "Platforms report to HMRC sellers who sold 30 or more items or earned roughly £1,700 (€2,000) in a calendar year. Reporting alone does not mean you owe tax, but HMRC may use the data."
+    },
+    {
+      "q": "What is the £1,000 trading allowance?",
+      "a": "If your gross trading income is £1,000 or less in a tax year, you generally do not need to tell HMRC. Above that, you may need to register for Self Assessment and can deduct either the allowance or your actual expenses."
+    },
+    {
+      "q": "Does the US report every online seller?",
+      "a": "No. Form 1099-K reporting applies above $20,000 in more than 200 transactions, although platforms can issue forms below that, and income is taxable regardless of whether a form is issued."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Information for online sellers (GOV.UK)",
+      "url": "https://www.gov.uk/government/news/information-for-online-sellers"
+    },
+    {
+      "title": "Selling goods or services on a digital platform (GOV.UK)",
+      "url": "https://www.gov.uk/guidance/selling-goods-or-services-on-a-digital-platform"
+    },
+    {
+      "title": "Tax-free allowances on property and trading income (GOV.UK)",
+      "url": "https://www.gov.uk/guidance/tax-free-allowances-on-property-and-trading-income"
+    },
+    {
+      "title": "Directive (EU) 2021/514, DAC7 (EUR-Lex)",
+      "url": "https://eur-lex.europa.eu/eli/dir/2021/514/oj/eng"
+    },
+    {
+      "title": "DAC7 (European Commission)",
+      "url": "https://taxation-customs.ec.europa.eu/taxation/tax-transparency-cooperation/administrative-co-operation-and-mutual-assistance/dac7_en"
+    },
+    {
+      "title": "Understanding your Form 1099-K (IRS)",
+      "url": "https://www.irs.gov/businesses/understanding-your-form-1099-k"
+    }
+  ]
+}
