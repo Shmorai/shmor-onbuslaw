@@ -1,0 +1,89 @@
+{
+  "updated": "2026-11-24",
+  "date": "2026-11-24",
+  "slug": "blog/subject-access-request-online-companies",
+  "type": "post",
+  "title": "How to Make a Subject Access Request (SAR)",
+  "description": "How to make a subject access request to an online company: what to include, response times in the UK, EU and California, and what to do if they ignore you.",
+  "h1": "How to make a subject access request to an online company",
+  "eyebrow": "Guide · Privacy",
+  "intro": "You can ask almost any online business what personal data it holds about you and get a copy. In the UK and EU this is called a subject access request (SAR); in California it is a request to know. Here is how to make one, how long companies have to answer, and what to do if they don't, as of November 2026. General information, not legal advice.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1595666944516-bbb485958fb5",
+    "alt": "Black and white sign reading privacy please",
+    "credit": "Jason Dent",
+    "creditUrl": "https://unsplash.com/@jdent"
+  },
+  "keywords": [
+    "subject access request",
+    "how to make a subject access request",
+    "sar template online company",
+    "data access request uk gdpr",
+    "request my data from a company",
+    "ccpa right to know request",
+    "gdpr article 15 access",
+    "company ignored subject access request",
+    "how long to respond subject access request",
+    "delete my data request online shop"
+  ],
+  "cardText": "Step-by-step: what to ask for, how to word it, response deadlines in the UK, EU and California, and escalating if ignored.",
+  "sections": [
+    {
+      "h2": "What a subject access request is",
+      "html": "<p>A subject access request lets you ask an organisation whether it uses or stores your personal information and get copies of it. The UK's Information Commissioner's Office (ICO) says you can ask for everything an organisation holds, though you may not receive all of it, and that organisations can sometimes refuse all or part of a request. Under the EU GDPR the same right of access exists, and California residents have a comparable right to know under the CCPA. It is useful for online shoppers who want to see what a retailer, marketplace or app has recorded about them, for example after a data breach or a dispute.</p>"
+    },
+    {
+      "h2": "How to make a request (UK)",
+      "html": "<p>You do not need a special form or particular wording. According to the ICO you can ask verbally or in writing, including by email, through an online form or on social media. Email or an online form is the easiest because it leaves a record. A good request includes:</p><ul><li>a subject line such as \"Subject access request\" and the date;</li><li>your full name, any former names and contact details;</li><li>account, order or customer reference numbers;</li><li>exactly what you want and the dates it covers, such as order history, support chats or marketing profile;</li><li>the format you prefer, for example electronic.</li></ul><p>Find the right contact in the company's privacy notice, which should name a data protection contact. If you phone or ask in person, note the date and who you spoke to. You can also make a request for someone else with their permission, but expect to supply proof such as written consent.</p>"
+    },
+    {
+      "h2": "How long do they have to reply?",
+      "html": "<p>In the UK, the ICO says organisations must respond without undue delay and within <strong>one month</strong> of receiving the request. The clock only starts once they have what they need from you, such as ID if they reasonably ask for it. For complex requests, or several from the same person, the deadline can be extended by up to two further months, but the organisation must tell you within the first month and explain why.</p><p>In California, the Attorney General says businesses must respond to a request to know within <strong>45 calendar days</strong>, with a further 45 days possible if they notify you, and the information must be provided free of charge. EU GDPR also sets a one-month baseline, so keep a dated copy of your request. For fake-shop or scam situations, see our guide to <a href=\"/online-scams/\">online scams</a> and <a href=\"/identity-theft/\">identity theft</a>.</p>"
+    },
+    {
+      "h2": "What if the company ignores or refuses you?",
+      "html": "<p>The ICO's advice if you have heard nothing after a month is to send a follow-up email or letter. If you are still unhappy, complain to the organisation first, then to the ICO. For a refusal, ask the company to explain the reason in writing, since the law allows limited exceptions, for example where other people's data is mixed in. Keep copies of every message.</p><p>If your request is part of a wider dispute, our page on <a href=\"/complaints/\">making a customer-service complaint</a> explains escalation routes, and the <a href=\"/refunds-and-returns/\">refunds and returns guide</a> covers money problems.</p>"
+    },
+    {
+      "h2": "Tips for getting a useful response",
+      "html": "<ul><li><strong>Be specific.</strong> The ICO advises being as specific as possible, which speeds things up and avoids a vague reply.</li><li><strong>Use the right route.</strong> Send it to the privacy contact rather than general support.</li><li><strong>Check what you received.</strong> Look for missing channels such as chat logs, device data or marketing segments.</li><li><strong>Ask for explanations.</strong> If data is withheld, ask why.</li><li><strong>Don't send sensitive documents unless needed.</strong> Offer ID only if they ask for it and explain why.</li></ul><p>If you run your own shop, you will receive these too: see the <a href=\"/online-business-legal-checklist/\">online business legal checklist</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do I have to pay for a subject access request?",
+      "a": "The ICO's public guidance does not mention a fee for UK requests, and California businesses must provide right-to-know information free of charge. Organisations can sometimes refuse or charge in limited cases, so ask them to explain in writing."
+    },
+    {
+      "q": "Do I need to use a special form?",
+      "a": "No. In the UK you can ask verbally or in writing, including by email or social media. A written request is easier to prove."
+    },
+    {
+      "q": "How long does a company have to respond?",
+      "a": "One month in the UK (extendable by up to two months for complex requests, with notice), and 45 calendar days in California (extendable by another 45 days with notice)."
+    },
+    {
+      "q": "Can I ask for my data to be deleted in the same message?",
+      "a": "You can make separate requests, but it is cleaner to get your data first, then send a deletion request, so you can see what exists."
+    }
+  ],
+  "related": [
+    "website-terms-and-privacy",
+    "identity-theft",
+    "complaints"
+  ],
+  "sources": [
+    {
+      "title": "ICO: Getting copies of your information (subject access request)",
+      "url": "https://ico.org.uk/for-the-public/getting-copies-of-your-information-subject-access-request/"
+    },
+    {
+      "title": "ICO: A guide to subject access",
+      "url": "https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/subject-access-requests/a-guide-to-subject-access/"
+    },
+    {
+      "title": "California Attorney General: California Consumer Privacy Act (CCPA)",
+      "url": "https://www.oag.ca.gov/privacy/ccpa"
+    }
+  ]
+}
