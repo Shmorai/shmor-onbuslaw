@@ -1,0 +1,92 @@
+{
+  "updated": "2026-11-26",
+  "date": "2026-11-26",
+  "slug": "blog/drip-pricing-hidden-fees-rules",
+  "type": "post",
+  "title": "Drip Pricing and Hidden Fees: Rules in the UK, US, EU",
+  "description": "Drip pricing and hidden fees explained: what the UK DMCC Act, the US FTC fees rule and EU law say about total price, and what to do if checkout adds charges.",
+  "h1": "Drip pricing and hidden fees: what the law says in the UK, US and EU",
+  "eyebrow": "Guide · Consumer rights",
+  "intro": "You see £40 on the product page and £52 at checkout, after a \"booking fee\" and a \"service charge\" appear. That is drip pricing, and rules against it have tightened on both sides of the Atlantic. This guide compares the UK, US and EU positions as of November 2026, for shoppers who want to know where they stand and sellers who want to stay on the right side. General information, not legal advice.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1589994965851-a8f479c573a9",
+    "alt": "Statue of Lady Justice holding scales and a sword",
+    "credit": "Tingey Injury Law Firm",
+    "creditUrl": "https://unsplash.com/@tingeyinjurylawfirm"
+  },
+  "keywords": [
+    "drip pricing",
+    "hidden fees online",
+    "drip pricing law uk",
+    "dmcc act drip pricing",
+    "junk fees ftc rule",
+    "total price including fees",
+    "booking fee hidden charge",
+    "mandatory fees included in price",
+    "unfair commercial practices pricing",
+    "checkout extra charges refund",
+    "hidden charges at checkout rights"
+  ],
+  "cardText": "What counts as drip pricing, how UK, US and EU rules treat mandatory fees, and what shoppers and sellers should do.",
+  "sections": [
+    {
+      "h2": "What is drip pricing?",
+      "html": "<p><strong>Drip pricing</strong> is when a headline price looks low and extra, unavoidable charges are added one by one as you move through the purchase. GOV.UK describes it as hiding fees, taxes or other charges until later in the buying process. It overlaps with what regulators call <strong>hidden fees</strong> or <strong>junk fees</strong>: charges that are mandatory but not part of the price you first saw.</p><p>The legal question is usually not whether a fee may exist, but whether the buyer sees the real cost at the right time. For general background on your rights as a buyer, see our guide to <a href=\"/consumer-rights/\">online consumer rights</a>.</p>"
+    },
+    {
+      "h2": "UK: the total price must include mandatory charges",
+      "html": "<p>In the UK, the Digital Markets, Competition and Consumers Act 2024 makes drip pricing an explicitly unfair commercial practice, with the rules applying from 6 April 2025. The Competition and Markets Authority's guidance (CMA209) says the <strong>total price</strong> shown in an invitation to purchase should normally include unavoidable charges, and that showing them separately is normally not enough (GOV.UK).</p><p>Examples the CMA gives of mandatory charges include VAT and other taxes, delivery or booking fees, and local charges such as resort fees. Flat one-off per-transaction fees belong in the headline price even in early advertising. A genuinely <strong>optional</strong> extra, such as paid next-day delivery, can be shown separately but must still be mentioned. For subscriptions, show the full monthly price, or the total or monthly price plus the number of months for a minimum-term deal.</p><p>The CMA can fine businesses up to 10% of turnover or £300,000, whichever is greater, and can order compensation for affected customers.</p>"
+    },
+    {
+      "h2": "US: the FTC fees rule for tickets and short-term stays",
+      "html": "<p>The US has no single federal law against every kind of hidden fee. The Federal Trade Commission's Rule on Unfair or Deceptive Fees, in effect since 12 May 2025, targets two sectors: <strong>live-event tickets and short-term lodging</strong>. Sellers there must show the total price, including mandatory fees, prominently whenever they advertise a price, and they must not misrepresent any fee (FTC). The rule does not ban any particular fee.</p><p>Outside those sectors, deceptive pricing can still breach the FTC Act's general ban on unfair or deceptive practices, and many states have their own price-display laws, so check your state. Sellers who exclude taxes or shipping from the advertised price should make that clear before the buyer enters payment details.</p>"
+    },
+    {
+      "h2": "EU: total price before you commit",
+      "html": "<p>Under the Consumer Rights Directive (2011/83/EU), a trader must give the <strong>total price including taxes</strong> before a distance contract is concluded, and where applicable the delivery charges. If the price cannot reasonably be worked out in advance, the trader has to explain how it will be calculated and flag any likely extra costs. For subscriptions the information has to cover the cost per billing period. Member states apply the directive in their own laws and national regulators enforce it, so details and penalties vary by country.</p>"
+    },
+    {
+      "h2": "If you were charged more than the price you saw",
+      "html": "<ul><li><strong>Keep evidence.</strong> Screenshot the product page, basket and checkout, and save the confirmation email.</li><li><strong>Complain in writing</strong> to the seller and say which price you saw first. Our guide to <a href=\"/complaints/\">making a complaint</a> has a step-by-step process.</li><li><strong>Ask for a refund of the extra amount</strong>, or cancel within your cancellation period. See <a href=\"/refunds-and-returns/\">refunds and returns</a> for the deadlines.</li><li><strong>Consider your card.</strong> A card issuer may help in some cases; read <a href=\"/chargebacks/\">how chargebacks work</a>.</li><li><strong>Report persistent problems</strong> to the regulator: the CMA or Trading Standards in the UK, the FTC in the US, or your national consumer authority in the EU.</li></ul>"
+    },
+    {
+      "h2": "For sellers: a quick pricing checklist",
+      "html": "<p>Show the mandatory total at every stage where you display a price, not only at checkout. Put taxes and unavoidable fees in the headline price where your jurisdiction requires it. Label optional extras clearly and keep them off by default. Re-check your terms against the <a href=\"/online-business-legal-checklist/\">online business legal checklist</a> when you change fees or add a marketplace.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is drip pricing illegal in the UK?",
+      "a": "Yes. The Digital Markets, Competition and Consumers Act 2024 treats hiding mandatory fees until later in the purchase as an unfair commercial practice, with the rules applying from 6 April 2025."
+    },
+    {
+      "q": "Can a website add a booking fee at checkout?",
+      "a": "In the UK, a mandatory booking fee should normally be included in the total price shown from the start. A genuinely optional fee can be shown separately. Rules differ in the US and EU."
+    },
+    {
+      "q": "Does the FTC fees rule cover all online shopping in the US?",
+      "a": "No. The Rule on Unfair or Deceptive Fees covers live-event tickets and short-term lodging. Other pricing practices fall under general FTC Act and state laws."
+    },
+    {
+      "q": "What are the penalties for drip pricing in the UK?",
+      "a": "The CMA can fine up to 10% of turnover or £300,000, whichever is greater, and can order compensation, according to GOV.UK as of November 2026."
+    }
+  ],
+  "related": [
+    "consumer-rights"
+  ],
+  "sources": [
+    {
+      "title": "Providing clear and accurate information about prices: summary (GOV.UK, CMA209)",
+      "url": "https://www.gov.uk/government/publications/price-transparency-cma209/providing-clear-and-accurate-information-about-prices-summary"
+    },
+    {
+      "title": "FTC Rule on Unfair or Deceptive Fees to Take Effect on May 12, 2025",
+      "url": "https://www.ftc.gov/news-events/news/press-releases/2025/05/ftc-rule-unfair-or-deceptive-fees-take-effect-may-12-2025"
+    },
+    {
+      "title": "Consumer Rights Directive 2011/83/EU (EUR-Lex)",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32011L0083"
+    }
+  ]
+}
