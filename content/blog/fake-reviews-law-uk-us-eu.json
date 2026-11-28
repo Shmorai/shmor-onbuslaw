@@ -1,0 +1,84 @@
+{
+  "updated": "2026-11-28",
+  "date": "2026-11-28",
+  "slug": "blog/fake-reviews-law-uk-us-eu",
+  "type": "post",
+  "title": "Fake Reviews Law: UK, US and EU Rules Explained",
+  "description": "Fake reviews and paid testimonials are banned in the UK and US. What the DMCC Act and the FTC rule cover, who is liable and how to report fake reviews.",
+  "h1": "Fake reviews: what the law says in the UK, US and EU",
+  "eyebrow": "Guide · Reviews and endorsements",
+  "intro": "Reviews drive online sales, so regulators now treat fake ones as a serious offence. The UK has banned them in statute and the US has a federal rule against them. This guide covers what is banned, who can be liable and what to do as a buyer or a seller, as of November 2026. General information, not legal advice.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1589994965851-a8f479c573a9",
+    "alt": "Statue of Lady Justice holding scales and a sword",
+    "credit": "Tingey Injury Law Firm",
+    "creditUrl": "https://unsplash.com/@tingeyinjurylawfirm"
+  },
+  "keywords": [
+    "fake reviews law uk",
+    "fake reviews illegal",
+    "dmcc act fake reviews",
+    "ftc fake reviews rule",
+    "paid reviews illegal",
+    "incentivised reviews rules",
+    "report fake reviews",
+    "can i be fined for fake reviews",
+    "review suppression law",
+    "buying reviews uk law",
+    "eu fake reviews rules"
+  ],
+  "cardText": "The UK ban on fake and hidden incentivised reviews, the US FTC rule, and what sellers and shoppers should do.",
+  "sections": [
+    {
+      "h2": "Are fake reviews illegal?",
+      "html": "<p>Yes, in the UK and US. In the UK, the Digital Markets, Competition and Consumers Act 2024 (DMCC Act) bans fake reviews and concealed incentivised reviews outright. The Competition and Markets Authority (CMA) published guidance on the ban on 4 April 2025. In the US, the Federal Trade Commission's rule on consumer reviews and testimonials took effect on <strong>21 October 2024</strong>.</p><p>These sit alongside the wider rules on <a href=\"/blog/drip-pricing-hidden-fees-rules/\">drip pricing</a> and misleading practices. For your basic rights as a shopper, see our <a href=\"/consumer-rights/\">consumer rights guide</a>.</p>"
+    },
+    {
+      "h2": "What the UK ban covers",
+      "html": "<p>The CMA guidance explains that the banned practice covers fake reviews and <strong>concealed incentivised reviews</strong>, meaning reviews written in return for payment, a free product or another reward without that being made clear. Submitting or commissioning such reviews is a breach, as is offering services that commission or facilitate them. Businesses that publish or host reviews also have duties to take reasonable and proportionate steps to prevent and remove banned reviews.</p><p>The CMA says breaches can lead to fines of up to 10% of global turnover. The guidance is not binding on courts, but the CMA has said it will have regard to it when enforcing.</p>"
+    },
+    {
+      "h2": "What the US FTC rule bans",
+      "html": "<p>The FTC's rule addresses:</p><ul><li>fake or false consumer reviews, consumer testimonials and celebrity testimonials;</li><li>buying positive or negative reviews, including incentives that imply a required sentiment;</li><li>undisclosed insider reviews and testimonials;</li><li>company-controlled sites that misrepresent their reviews as independent;</li><li>review suppression, including intimidation and unfounded legal threats;</li><li>misuse of fake indicators of social media influence.</li></ul><p>Courts can impose civil penalties for knowing violations. Influencer and affiliate content has its own disclosure duties; see our guide to <a href=\"/affiliate-disclosure-rules/\">affiliate disclosure rules</a>.</p>"
+    },
+    {
+      "h2": "The EU position",
+      "html": "<p>In the EU, fake reviews are tackled through the consumer protection rules on unfair commercial practices, which are enforced nationally by each member state. Rules and penalties therefore vary by country. If you sell into the EU, check the regulator in each country you target rather than assuming the UK or US position applies.</p>"
+    },
+    {
+      "h2": "What sellers and shoppers should do",
+      "html": "<p><strong>If you sell online:</strong> never write, buy or trade reviews; ask real customers for honest feedback; if you offer a reward, make it plain and do not reward only positive ratings; and do not hide or threaten reviewers for honest criticism.</p><p><strong>If you shop online:</strong> be cautious when many reviews appear in a burst or use similar wording, and check unfamiliar shops using our guide to <a href=\"/blog/fake-online-shops/\">spotting fake online shops</a>. Report suspect reviews to the platform first. In the UK you can also report to the CMA or Citizens Advice, and in the US to the FTC. If a product was not as described, see <a href=\"/refunds-and-returns/\">refunds and returns</a> or <a href=\"/complaints/\">how to complain</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is it illegal to pay for reviews in the UK?",
+      "a": "Yes. Under the DMCC Act, commissioning or submitting fake reviews, and concealed incentivised reviews, is banned, as of November 2026."
+    },
+    {
+      "q": "Can I offer a discount in return for a review?",
+      "a": "Incentivised reviews are only a problem when the incentive is hidden. The UK guidance targets concealed ones, and US rules ban incentives that imply a required positive sentiment. Be transparent and never reward only positive reviews."
+    },
+    {
+      "q": "Is a platform liable for fake reviews posted by others?",
+      "a": "In the UK, platforms that publish reviews must take reasonable and proportionate steps to prevent and remove banned reviews."
+    },
+    {
+      "q": "Where do I report fake reviews?",
+      "a": "Start with the platform. In the UK you can report to the CMA or Citizens Advice, and in the US to the FTC."
+    }
+  ],
+  "related": [
+    "consumer-rights"
+  ],
+  "sources": [
+    {
+      "title": "CMA: Fake reviews guidance (CMA208), GOV.UK",
+      "url": "https://www.gov.uk/government/publications/fake-reviews-cma208"
+    },
+    {
+      "title": "FTC: Consumer Reviews and Testimonials Rule Q&A",
+      "url": "https://www.ftc.gov/business-guidance/resources/consumer-reviews-testimonials-rule-questions-answers"
+    }
+  ]
+}
